@@ -1,0 +1,2942 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,DistributionChannel,ID,Consent,Q1,Q2,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q4,Q5,current emotion_1,current emotion_2,current emotion_3,current emotion_5,current emotion_6,current emotion_7,current emotion_8,current emotion_9,current emotion_10,current emotion_11,current emotion_12,current emotion_13,current emotion_14,current emotion_15,current emotion_16,current emotion_17,current emotion_18,current emotion_19,current emotion_20,current emotions_1,current emotions_21,current emotions_22,current emotions_23,current emotions_24,current emotions_25,current emotions_26,current emotions_27,current emotions_28,current emotions_29,current emotions_20,current emotions_19,current emotions_17,current emotions_16,current emotions_15,current emotions_14,current emotions_13,current emotions_12,Q151_First Click,Q151_Last Click,Q151_Page Submit,Q151_Click Count,Q146,Q152_First Click,Q152_Last Click,Q152_Page Submit,Q152_Click Count,Q153_First Click,Q153_Last Click,Q153_Page Submit,Q153_Click Count,Q154_First Click,Q154_Last Click,Q154_Page Submit,Q154_Click Count,Q154_First Click,Q154_Last Click,Q154_Page Submit,Q154_Click Count,Q156,Q157_First Click,Q157_Last Click,Q157_Page Submit,Q157_Click Count,Q159_First Click,Q159_Last Click,Q159_Page Submit,Q159_Click Count,Q161_First Click,Q161_Last Click,Q161_Page Submit,Q161_Click Count,Q163_First Click,Q163_Last Click,Q163_Page Submit,Q163_Click Count,Q165,Q166_First Click,Q166_Last Click,Q166_Page Submit,Q166_Click Count,Q168_First Click,Q168_Last Click,Q168_Page Submit,Q168_Click Count,Q170_First Click,Q170_Last Click,Q170_Page Submit,Q170_Click Count,Q172_First Click,Q172_Last Click,Q172_Page Submit,Q172_Click Count,choose 1463,Q175_First Click,Q175_Last Click,Q175_Page Submit,Q175_Click Count,Q177_First Click,Q177_Last Click,Q177_Page Submit,Q177_Click Count,Q179_First Click,Q179_Last Click,Q179_Page Submit,Q179_Click Count,Q181_First Click,Q181_Last Click,Q181_Page Submit,Q181_Click Count,choice 2070,Q184_First Click,Q184_Last Click,Q184_Page Submit,Q184_Click Count,Q186_First Click,Q186_Last Click,Q186_Page Submit,Q186_Click Count,Q188_First Click,Q188_Last Click,Q188_Page Submit,Q188_Click Count,Q190_First Click,Q190_Last Click,Q190_Page Submit,Q190_Click Count,choose 2095,Q193_First Click,Q193_Last Click,Q193_Page Submit,Q193_Click Count,Q195_First Click,Q195_Last Click,Q195_Page Submit,Q195_Click Count,Q197_First Click,Q197_Last Click,Q197_Page Submit,Q197_Click Count,Q199_First Click,Q199_Last Click,Q199_Page Submit,Q199_Click Count,choose 2102,Q202_First Click,Q202_Last Click,Q202_Page Submit,Q202_Click Count,Q204_First Click,Q204_Last Click,Q204_Page Submit,Q204_Click Count,Q206_First Click,Q206_Last Click,Q206_Page Submit,Q206_Click Count,Q208_First Click,Q208_Last Click,Q208_Page Submit,Q208_Click Count,choose 2205,Q211_First Click,Q211_Last Click,Q211_Page Submit,Q211_Click Count,Q213_First Click,Q213_Last Click,Q213_Page Submit,Q213_Click Count,Q215_First Click,Q215_Last Click,Q215_Page Submit,Q215_Click Count,Q217_First Click,Q217_Last Click,Q217_Page Submit,Q217_Click Count,choose 2345,Q220_First Click,Q220_Last Click,Q220_Page Submit,Q220_Click Count,Q222_First Click,Q222_Last Click,Q222_Page Submit,Q222_Click Count,Q224_First Click,Q224_Last Click,Q224_Page Submit,Q224_Click Count,Q226_First Click,Q226_Last Click,Q226_Page Submit,Q226_Click Count,choose 2411,Q229_First Click,Q229_Last Click,Q229_Page Submit,Q229_Click Count,Q231_First Click,Q231_Last Click,Q231_Page Submit,Q231_Click Count,Q233_First Click,Q233_Last Click,Q233_Page Submit,Q233_Click Count,Q235_First Click,Q235_Last Click,Q235_Page Submit,Q235_Click Count,choose 2550,Q238_First Click,Q238_Last Click,Q238_Page Submit,Q238_Click Count,Q240_First Click,Q240_Last Click,Q240_Page Submit,Q240_Click Count,Q242_First Click,Q242_Last Click,Q242_Page Submit,Q242_Click Count,Q244_First Click,Q244_Last Click,Q244_Page Submit,Q244_Click Count,choose 7012,Q247_First Click,Q247_Last Click,Q247_Page Submit,Q247_Click Count,Q249_First Click,Q249_Last Click,Q249_Page Submit,Q249_Click Count,Q251_First Click,Q251_Last Click,Q251_Page Submit,Q251_Click Count,Q253_First Click,Q253_Last Click,Q253_Page Submit,Q253_Click Count,choose 7014,Q256_First Click,Q256_Last Click,Q256_Page Submit,Q256_Click Count,Q258_First Click,Q258_Last Click,Q258_Page Submit,Q258_Click Count,Q260_First Click,Q260_Last Click,Q260_Page Submit,Q260_Click Count,Q262_First Click,Q262_Last Click,Q262_Page Submit,Q262_Click Count,choose 7530,Q265_First Click,Q265_Last Click,Q265_Page Submit,Q265_Click Count,Q267_First Click,Q267_Last Click,Q267_Page Submit,Q267_Click Count,Q269_First Click,Q269_Last Click,Q269_Page Submit,Q269_Click Count,Q271_First Click,Q271_Last Click,Q271_Page Submit,Q271_Click Count,choose sad1,Q274_First Click,Q274_Last Click,Q274_Page Submit,Q274_Click Count,Q276_First Click,Q276_Last Click,Q276_Page Submit,Q276_Click Count,Q278_First Click,Q278_Last Click,Q278_Page Submit,Q278_Click Count,Q280_First Click,Q280_Last Click,Q280_Page Submit,Q280_Click Count,choose sad3,Q283_First Click,Q283_Last Click,Q283_Page Submit,Q283_Click Count,Q285_First Click,Q285_Last Click,Q285_Page Submit,Q285_Click Count,Q287_First Click,Q287_Last Click,Q287_Page Submit,Q287_Click Count,Q289_First Click,Q289_Last Click,Q289_Page Submit,Q289_Click Count,choose sad12,Q292_First Click,Q292_Last Click,Q292_Page Submit,Q292_Click Count,Q294_First Click,Q294_Last Click,Q294_Page Submit,Q294_Click Count,Q296_First Click,Q296_Last Click,Q296_Page Submit,Q296_Click Count,Q130_1,Q130_17,Q130_2,Q130_3,Q130_4,Q130_34,Q130_5,Q130_32,Q130_7,Q132_33,Q132_8,Q132_9,Q132_10,Q132_11,Q132_34,Q132_35,Q132_12,Q151_33,Q151_8,Q151_9,Q151_10,Q151_11,Q151_34,Q151_35,Q136,Q138,Q140,Q142,emo pref 1_1,emo pref 1_2,emo pref 1_3,emo pref 1_5,emo pref 1_6,emo pref 1_7,emo pref 1_8,emo pref 1_9,emo pref 1_10,emo pref 1_11,emo pref 1_12,emo pref 1_13,emo pref 1_14,emo pref 1_15,emo pref 1_16,emo pref 1_17,emo pref 1_18,emo pref 1_19,emo pref 1_20,emo pref 2_1,emo pref 2_21,emo pref 2_22,emo pref 2_23,emo pref 2_24,emo pref 2_25,emo pref 2_26,emo pref 2_27,emo pref 2_28,emo pref 2_29,emo pref 2_20,emo pref 2_19,emo pref 2_17,emo pref 2_16,emo pref 2_15,emo pref 2_14,emo pref 2_13,emo pref 2_12,Q18,Q19,Q20,Q21,Q22,Q23,Q24,Q25,SASSR6,SASSR7,SASSR8,SASSR9,SASSR10,Q31,Q32,Q33,Q34,Q35,Q36,Q37,Q38,Q39,Q40,Q41,Q42,Q43,Q44,Q45,Q46,Q47,Q48,Q49,Q50,Q51,Q52,Q53,Q54,Q55,Q56,Q57,Q58,Q59,Q60,Q61,Q62,Q63,Q64,Q65,Q66,Q67,Q68,Q69,Q70,Q71,Q72,Q73,Q74,Q75,Q76,Q77,Q78,Q79,Q80,Q83_1,Q83_2,Q83_3,Q83_4,Q83_5,Q83_6,Q83_7,Q83_8,Q83_9,Q83_10,Q83_11,Q83_12,Q84,Q85,Q86,Q90,Q91,Q92,Q93,Q94,Q302_1,Q302_2,Q302_3,Q302_4,Q302_5,Q302_6,Q96,Q97,Q98,Q99,Q100,Q101,Q102,Q103,Q104,Q105,Q106,Q107,Q108,Q15,Q16,Q302,Q303,Q304,Q304_6_TEXT,Q305,Q306,Q307,Q308,Q309,Q309_6_TEXT,Q310,Q311,Q312
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Distribution Channel,ID #,"A full consent form is included below for the broader study protocol (see URL to download full PDF of consent form)
+http://gruberpeplab.com/pdf/PABST_APPENDIX_A_Full_Consent_08.03.16.pdf
+Please note that only the following section below applies to this survey:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part 6: Follow-up Survey, Part B. We may also be interested in recontacting
+you at some point after the follow up for an additionally follow-up survey.
+These contacts will be made by email and the survey will be administered via an
+online questionnaire. You will be contacted by your preferred email and all of
+your answers will be kept confidential. Each contact will last no longer than
+30 minutes, and you will be compensated at a base rate of $5 and an additional
+$0-$13 based on your responses for a total payment of $5-$18. If you consent to agree to participate in this portion of
+the study (follow-up contact), please provide your initials below. Otherwise,
+you may leave this section blank
+
+
+Please include your initials below in the box to consent to this portion of the research study.",Q1. Please review the lottery below and select the option that you prefer.,Q2. Please review the lottery below and select the option that you prefer.,"Q3. Please accept or reject the following coin tosses. If you accept the ga... - Q3. Please accept or reject the following coin tosses. If you accept the gamble, the lottery will be played and you can win the amounts as stated in each row. If you reject the gamble, you cannot win or lose anything, and you will just receive 0.
+ - lose $2 if heads, win $6 if tails","Q3. Please accept or reject the following coin tosses. If you accept the ga... - Q3. Please accept or reject the following coin tosses. If you accept the gamble, the lottery will be played and you can win the amounts as stated in each row. If you reject the gamble, you cannot win or lose anything, and you will just receive 0.
+ - lose $3 if heads, win $6 if tails","Q3. Please accept or reject the following coin tosses. If you accept the ga... - Q3. Please accept or reject the following coin tosses. If you accept the gamble, the lottery will be played and you can win the amounts as stated in each row. If you reject the gamble, you cannot win or lose anything, and you will just receive 0.
+ - lose $4 if heads, win $6 if tails","Q3. Please accept or reject the following coin tosses. If you accept the ga... - Q3. Please accept or reject the following coin tosses. If you accept the gamble, the lottery will be played and you can win the amounts as stated in each row. If you reject the gamble, you cannot win or lose anything, and you will just receive 0.
+ - lose $5 if heads, win $6 if tails","Q3. Please accept or reject the following coin tosses. If you accept the ga... - Q3. Please accept or reject the following coin tosses. If you accept the gamble, the lottery will be played and you can win the amounts as stated in each row. If you reject the gamble, you cannot win or lose anything, and you will just receive 0.
+ - lose $6 if heads, win $6 if tails","Q3. Please accept or reject the following coin tosses. If you accept the ga... - Q3. Please accept or reject the following coin tosses. If you accept the gamble, the lottery will be played and you can win the amounts as stated in each row. If you reject the gamble, you cannot win or lose anything, and you will just receive 0.
+ - lose $7 if heads, win $6 if tails","Q4. Imagine that the US is preparing for the outbreak of an
+unusual anthrax disease, which is expected to kill 600 people. Two alternative
+programmes to combat the disease have been proposed. Assume that the exact
+scientific estimates of the consequences of the programmes are as follows:","Q5. Imagine that the US is preparing for the outbreak of SARS, which is expected to kill 600 people. Two alternative
+programmes to combat the disease have been proposed. Assume that the exact
+scientific estimates of the consequences of the programmes are as follows:",This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - cheerful,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - distressed,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - excited,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - strong,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - guilty,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - fearful,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - hostile,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - enthusiastic,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - proud,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - irritable,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - alert,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - ashamed,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - inspired,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - depressed,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - nervous,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - determined,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - sad,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - attentive,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - happy,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - interested,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - jittery,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - active,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - scared,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - angry,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - joyful,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - gloomy,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - blissful,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - downhearted,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - grateful,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - worried,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - melancholic,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - compassionate,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - concerned,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - disgusted,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - content,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - furious,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you feel this way at this moment.  - upset,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,which image would you like to watch?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,This questionnaire includes some statements regarding emotionality. Please... - This questionnaire includes some statements regarding emotionality. Please indicate the extent to which each statement applies to you: - I prefer stable over unstable emotional experiences,This questionnaire includes some statements regarding emotionality. Please... - This questionnaire includes some statements regarding emotionality. Please indicate the extent to which each statement applies to you: - Sometimes I like it when my mood changes,This questionnaire includes some statements regarding emotionality. Please... - This questionnaire includes some statements regarding emotionality. Please indicate the extent to which each statement applies to you: - I don’t like experiencing drastic mood changes,This questionnaire includes some statements regarding emotionality. Please... - This questionnaire includes some statements regarding emotionality. Please indicate the extent to which each statement applies to you: - I like being emotionally unpredictable,This questionnaire includes some statements regarding emotionality. Please... - This questionnaire includes some statements regarding emotionality. Please indicate the extent to which each statement applies to you: - I don't like feeling the same way for very long.,This questionnaire includes some statements regarding emotionality. Please... - This questionnaire includes some statements regarding emotionality. Please indicate the extent to which each statement applies to you: - Please mark to some extent,This questionnaire includes some statements regarding emotionality. Please... - This questionnaire includes some statements regarding emotionality. Please indicate the extent to which each statement applies to you: - I like it when my mood changes from day to day,This questionnaire includes some statements regarding emotionality. Please... - This questionnaire includes some statements regarding emotionality. Please indicate the extent to which each statement applies to you: - I prefer experiencing positive emotions all the time over experiencing unstable mood.,This questionnaire includes some statements regarding emotionality. Please... - This questionnaire includes some statements regarding emotionality. Please indicate the extent to which each statement applies to you: - I prefer experiencing unstable mood over experiencing positive emotions all the time.,Please indicate the extent to which each statement applies to you: - I prefer experiencing negative emotions all the time over experiencing unstable mood.,Please indicate the extent to which each statement applies to you: - I prefer experiencing unstable mood over experiencing negative emotions all the time.,Please indicate the extent to which each statement applies to you: - Sometimes I like it when my mood changes from positive mood to negative mood.,Please indicate the extent to which each statement applies to you: - Sometimes I like it when my mood changes from negative mood to positive mood.,Please indicate the extent to which each statement applies to you: - I don't like experiencing drastic mood changes from negative to positive mood.,Please indicate the extent to which each statement applies to you: - I don't like experiencing drastic mood changes from positive to negative mood.,Please indicate the extent to which each statement applies to you: - I don't like feeling happy for very long.,Please indicate the extent to which each statement applies to you: - I don't like feeling sad for very long.,Please indicate the extent to which each statement applies to you: - I like being in the same mood all the time.,"Please indicate the extent to which each statement applies to you: - If I could, I would prefer feeling the same way all the time","Please indicate the extent to which each statement applies to you: - It is important for me to experience a wide range of emotional experiences, positive and negative.","Please indicate the extent to which each statement applies to you: - I like experiencing emotions that differ from one another, negative as well as positive emotions.","Please indicate the extent to which each statement applies to you: - It is important for me not to feel the same way all the time, but to experience different kinds of emotions.",Please indicate the extent to which each statement applies to you: - I prefer experiencing a variety of emotions over experiencing exclusively negative emotions,Please indicate the extent to which each statement applies to you: - I prefer experiencing a variety of emotions over experiencing exclusively positive emotions,I like it when my mood changes every few:,I don’t like experiencing drastic mood changes within a few:,I don't like feeling the same way for more than a few:,"If I could control my feelings, I would try to change them:",This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - cheerful,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - distressed,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - excited,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - strong,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - guilty,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - fearful,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - hostile,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - enthusiastic,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - proud,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - irritable,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - alert,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - ashamed,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - inspired,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - depressed,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - nervous,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - determined,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - sad,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - attentive,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - happy,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - interested,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - jittery,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - active,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - scared,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - angry,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - joyful,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - gloomy,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - blissful,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - downhearted,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - grateful,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - worried,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - melancholic,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - compassionate,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - concerned,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - disgusted,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - content,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - furious,This Questionnaire includes some words and expressions that depict emotions... - This Questionnaire includes some words and expressions that depict emotions or feelings. Please indicate the extent to which you generally WANT to feel this way in your daily life.  - upset,"WORK OUTSIDE THE HOME
+I am:",Do you usually work for pay more than 15 hours per week?,Did you work for pay in the last 2 weeks?,1. How many days did you miss from work in the last 2 weeks?,"If you have not worked any days in the past 2 weeks, go on to Question 7
+2. Have you been able to do any work in the last 2 weeks?",3.  Have you been ashamed of how you do your work in the past two weeks?,4. Have you had any arguments with people at work in the last 2 weeks?,"5.  Have you felt upset, worried or uncomfortable while doing your work in the past 2 weeks?",6.  Have you found your work interesting these last 2 weeks?,"WORK INSIDE THE HOME – HOUSEWIVES ANSWER QUESTIONS 7-12.  OTHERWISE, GO ON TO QUESTION 13
+7.  How many days did you do some housework during the last 2 weeks?","8.  During the last 2 weeks, have you kept up with your housework?  This includes cooking, cleaning, laundry, grocery shopping, and errands.",9.  Have you been ashamed of how you did your housework during the last 2 weeks?,"10.  Have you had any arguments with salespeople, tradesmen, or neighbors in the past 2 weeks?",11.  Have you felt upset while doing your housework during the last 2 weeks?,12.  Have you found your housework interesting these last 2 weeks?,"FOR STUDENTS
+Answer Questions 13-18 if you go to school half time or more.  Otherwise go to Question 19.
+What best describes your school program?",13.  How many days of classes did you miss in the last 2 weeks?,14.  Have you kept up with your class work in the last 2 weeks?,"15.  During the last 2 weeks, have you been ashamed of how you do your schoolwork?",16. Have you had any arguments with people at school in the last 2 weeks?,17.  Have you felt upset at school during the last 2 weeks?,18.  Have you found your school work interesting these last 2 weeks?,"SPARE TIME – EVERYONE ANSWER QUESTIONS 19-27
+Check the answer that best describes the way you have been in the last 2 weeks.
+19.  How many friends have you seen or spoken to on the telephone in the last 2 weeks?",20.  Have you been able to talk about your feelings and problems with at least one friend during the last 2 weeks?,"21.  How many times in the last 2 weeks have you gone out socially with other people?  For example, visited friends, gone to movies, bowling, church, restaurants, invited friends to your home?","22.  How much time have you spent on hobbies or spare time interests during the last two weeks?  For example, bowling, sewing, gardening, sports, reading?",23.  Have you had open arguments with your friends in the past 2 weeks?,"24.  If your feelings were hurt or offended by a friend during the last 2 weeks, how badly did you take it?",25.  Have you felt shy or uncomfortable with people in the last 2 weeks?,26.  Have you felt lonely and wished for more friends during the last 2 weeks?,27.  Have you felt bored in your spare time during the last 2 weeks?,"Are you single, separated or divorced?",28.  How many times have you been on a date these last 2 weeks?,"29.  Have you been interested in dating during the last 2 weeks?  If you have not dated, would you have liked to?","FAMILY 
+Answer Questions 30-37 about your parents, brothers, sisters, in-laws, and children not living at home.  Have you been in contact with any of them in the last 2 weeks?",30.  Have you had open arguments with your relatives in the past 2 weeks?,31.  Have you been able to talk about your feelings and problems with at least one relative during the last 2 weeks?,32.  Have you avoided contacts with your relatives during these last 2 weeks?,"33.  Did you depend on your relatives for help, advice, money, or friendship during the last 2 weeks?",34.  Have you wanted to do the opposite of what your relatives wanted in order to make them angry during the last 2 weeks?,35.  Have you been worried about things happening to your relatives without good reason in the last 2 weeks?,"EVERYONE answer questions 36 and 37, even if your relatives are not living.
+36.  During the last 2 weeks, have you been thinking that you have let any of your relatives down or have been unfair to them at any time?","37.  During the last 2 weeks, have you been thinking that any of your relatives have let you down or have been unfair to you at any time?",Are you living with your spouse or have you been living with a boyfriend/girlfriend in a permanent relationship?,38.  Have you had open arguments with your partner in the past 2 weeks?,"39.  Have you been able to talk about your feelings and problems with your partner 
+during the past 2 weeks?",40.  Have you been demanding to have your own way with your partner during the last 2 weeks?,41.  Have you been bossed around by your partner these last 2 weeks?,42.  How much have you felt dependent on your partner these last 2 weeks?,43.  How have you felt about your partner during the last 2 weeks?,44.  How many times have you and your partner had intercourse?,"45.  Have you had any problems during intercourse, such as pain, these last 2 weeks?",46.  How have you felt about intercourse during the last 2 weeks?,"CHILDREN
+Have you had unmarried children, stepchildren, or foster children living at home during the last 2 weeks?","47.  Have you been interested in what your children are doing – school, play, or hobbies, during the last 2 weeks?",48.  Have you been able to talk and listen to your children during the last 2 weeks?  Include only children over the age of 2.,49.  How have you been getting along with the children during the last 2 weeks?,50.  How have you felt towards your children these last 2 weeks?,"FAMILY UNIT
+Have you ever been married, ever lived with a significant other, or ever had children?","51.  Have you worried about your partner or any of you children without reason during the last 2 weeks, even if you are not living together now?","52.  During the last 2 weeks, have you been thinking that you have let down your partner or any of your children at any time?","53.  During the last 2 weeks, have you been thinking that your partner or any of your children have let you down at any time?","FINANCIAL-EVERYONE ANSWER QUESTION 54
+54.  Have you had enough money to take care of your own and your family’s financial needs during the last 2 weeks?","In the past 30 days, how much difficulty did you have in: - 1. Standing for long periods such as 30 minutes?","In the past 30 days, how much difficulty did you have in: - 2.	Taking care of your household responsibilities?","In the past 30 days, how much difficulty did you have in: - 3.	Learning a new task, for example, learning how to get to a new place?","In the past 30 days, how much difficulty did you have in: - 4.	How much of a problem did you have joining in community activities (for example, festivities, religious, or other activities) in the same way as anyone else can?","In the past 30 days, how much difficulty did you have in: - 5.	How much have you been emotionally affected by your health problems?","In the past 30 days, how much difficulty did you have in: - 6.	Concentrating on doing something for ten minutes?","In the past 30 days, how much difficulty did you have in: - 7.	Walking a long distance such as a kilometer [or equivalent]?","In the past 30 days, how much difficulty did you have in: - 8.	Washing your whole body?","In the past 30 days, how much difficulty did you have in: - 9.	Getting dressed?","In the past 30 days, how much difficulty did you have in: - 10.	Dealing with people you do not know?","In the past 30 days, how much difficulty did you have in: - 11.	Maintaining a friendship?","In the past 30 days, how much difficulty did you have in: - 12.	Your day-to-day work?","13. Overall, in the past 30 days, how many days were these difficulties present?","14. In the past 30 days, for how many days were you totally unable to carry out your usual activities or work because of any health condition?","15. In the past 30 days, not counting the days that you were totally unable, for how many days did you cut back or reduce your usual activities or work because of any health condition?",ASRM(1),ASRM(2),ASRM(3),ASRM(4),ASRM(5),"A number of statements which people used to describe themselves are given b... - A number of statements which people used to describe themselves are given below. Read each statement and then mark the most appropriate answer to indicate how you feel right now, at this moment.  There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best.
+
+ - I feel calm","A number of statements which people used to describe themselves are given b... - A number of statements which people used to describe themselves are given below. Read each statement and then mark the most appropriate answer to indicate how you feel right now, at this moment.  There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best.
+
+ - I am tense","A number of statements which people used to describe themselves are given b... - A number of statements which people used to describe themselves are given below. Read each statement and then mark the most appropriate answer to indicate how you feel right now, at this moment.  There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best.
+
+ - I feel upset","A number of statements which people used to describe themselves are given b... - A number of statements which people used to describe themselves are given below. Read each statement and then mark the most appropriate answer to indicate how you feel right now, at this moment.  There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best.
+
+ - I am relaxed","A number of statements which people used to describe themselves are given b... - A number of statements which people used to describe themselves are given below. Read each statement and then mark the most appropriate answer to indicate how you feel right now, at this moment.  There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best.
+
+ - I feel content","A number of statements which people used to describe themselves are given b... - A number of statements which people used to describe themselves are given below. Read each statement and then mark the most appropriate answer to indicate how you feel right now, at this moment.  There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best.
+
+ - I am worried",BDI-SF(1),BDF-SF(2),BDF-SF(3),BDF-SF(4),BDF-SF(5),BDF-SF(6),BDF-SF(7),BDF-SF(8),BDF-SF(9),BDF-SF(10),BDF-SF(11),BDF-SF(12),BDF-SF(13),Medication History_1,Medication History_2,"Where do you live?
+Sometimes people do not read questions, so regardless of where you live, please write down Venus. This is just to check that you are paying attention. Thank you.",Age,ETHNICITY - Selected Choice,ETHNICITY - Other (please specify) - Text,GENDER,YEARS OF EDUCATION,Annual Household Income:,Employment Status,Living Arrangement - Selected Choice,Living Arrangement - Other (please specify) - Text,Marital Status:,Number of Children:,"Think of this 10 rung ladder as representing where people stand IN THE UNITED STATES. At the top of the ladder are the people who are the best off--those who have the most money, the most education, and the most respected jobs. At the bottom are the people who are the worst off--who have the least money, least education, and the least respected jobs or no job. Between 1 (bottom) and 10 (top), where do you think you stand on the ladder IN GENERAL?"
+"{""ImportId"":""startDate""}","{""ImportId"":""endDate""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""QID3_TEXT""}","{""ImportId"":""QID315_TEXT""}","{""ImportId"":""QID327""}","{""ImportId"":""QID328""}","{""ImportId"":""QID330_1""}","{""ImportId"":""QID330_2""}","{""ImportId"":""QID330_3""}","{""ImportId"":""QID330_4""}","{""ImportId"":""QID330_5""}","{""ImportId"":""QID330_6""}","{""ImportId"":""QID331""}","{""ImportId"":""QID332""}","{""ImportId"":""QID125_1""}","{""ImportId"":""QID125_2""}","{""ImportId"":""QID125_3""}","{""ImportId"":""QID125_5""}","{""ImportId"":""QID125_6""}","{""ImportId"":""QID125_7""}","{""ImportId"":""QID125_8""}","{""ImportId"":""QID125_9""}","{""ImportId"":""QID125_10""}","{""ImportId"":""QID125_11""}","{""ImportId"":""QID125_12""}","{""ImportId"":""QID125_13""}","{""ImportId"":""QID125_14""}","{""ImportId"":""QID125_15""}","{""ImportId"":""QID125_16""}","{""ImportId"":""QID125_17""}","{""ImportId"":""QID125_18""}","{""ImportId"":""QID125_19""}","{""ImportId"":""QID125_20""}","{""ImportId"":""QID126_1""}","{""ImportId"":""QID126_21""}","{""ImportId"":""QID126_22""}","{""ImportId"":""QID126_23""}","{""ImportId"":""QID126_24""}","{""ImportId"":""QID126_25""}","{""ImportId"":""QID126_26""}","{""ImportId"":""QID126_27""}","{""ImportId"":""QID126_28""}","{""ImportId"":""QID126_29""}","{""ImportId"":""QID126_20""}","{""ImportId"":""QID126_19""}","{""ImportId"":""QID126_17""}","{""ImportId"":""QID126_16""}","{""ImportId"":""QID126_15""}","{""ImportId"":""QID126_14""}","{""ImportId"":""QID126_13""}","{""ImportId"":""QID126_12""}","{""ImportId"":""QID150_FIRST_CLICK""}","{""ImportId"":""QID150_LAST_CLICK""}","{""ImportId"":""QID150_PAGE_SUBMIT""}","{""ImportId"":""QID150_CLICK_COUNT""}","{""ImportId"":""QID143""}","{""ImportId"":""QID151_FIRST_CLICK""}","{""ImportId"":""QID151_LAST_CLICK""}","{""ImportId"":""QID151_PAGE_SUBMIT""}","{""ImportId"":""QID151_CLICK_COUNT""}","{""ImportId"":""QID152_FIRST_CLICK""}","{""ImportId"":""QID152_LAST_CLICK""}","{""ImportId"":""QID152_PAGE_SUBMIT""}","{""ImportId"":""QID152_CLICK_COUNT""}","{""ImportId"":""QID153_FIRST_CLICK""}","{""ImportId"":""QID153_LAST_CLICK""}","{""ImportId"":""QID153_PAGE_SUBMIT""}","{""ImportId"":""QID153_CLICK_COUNT""}","{""ImportId"":""QID154_FIRST_CLICK""}","{""ImportId"":""QID154_LAST_CLICK""}","{""ImportId"":""QID154_PAGE_SUBMIT""}","{""ImportId"":""QID154_CLICK_COUNT""}","{""ImportId"":""QID156""}","{""ImportId"":""QID157_FIRST_CLICK""}","{""ImportId"":""QID157_LAST_CLICK""}","{""ImportId"":""QID157_PAGE_SUBMIT""}","{""ImportId"":""QID157_CLICK_COUNT""}","{""ImportId"":""QID159_FIRST_CLICK""}","{""ImportId"":""QID159_LAST_CLICK""}","{""ImportId"":""QID159_PAGE_SUBMIT""}","{""ImportId"":""QID159_CLICK_COUNT""}","{""ImportId"":""QID161_FIRST_CLICK""}","{""ImportId"":""QID161_LAST_CLICK""}","{""ImportId"":""QID161_PAGE_SUBMIT""}","{""ImportId"":""QID161_CLICK_COUNT""}","{""ImportId"":""QID163_FIRST_CLICK""}","{""ImportId"":""QID163_LAST_CLICK""}","{""ImportId"":""QID163_PAGE_SUBMIT""}","{""ImportId"":""QID163_CLICK_COUNT""}","{""ImportId"":""QID165""}","{""ImportId"":""QID166_FIRST_CLICK""}","{""ImportId"":""QID166_LAST_CLICK""}","{""ImportId"":""QID166_PAGE_SUBMIT""}","{""ImportId"":""QID166_CLICK_COUNT""}","{""ImportId"":""QID168_FIRST_CLICK""}","{""ImportId"":""QID168_LAST_CLICK""}","{""ImportId"":""QID168_PAGE_SUBMIT""}","{""ImportId"":""QID168_CLICK_COUNT""}","{""ImportId"":""QID170_FIRST_CLICK""}","{""ImportId"":""QID170_LAST_CLICK""}","{""ImportId"":""QID170_PAGE_SUBMIT""}","{""ImportId"":""QID170_CLICK_COUNT""}","{""ImportId"":""QID172_FIRST_CLICK""}","{""ImportId"":""QID172_LAST_CLICK""}","{""ImportId"":""QID172_PAGE_SUBMIT""}","{""ImportId"":""QID172_CLICK_COUNT""}","{""ImportId"":""QID174""}","{""ImportId"":""QID175_FIRST_CLICK""}","{""ImportId"":""QID175_LAST_CLICK""}","{""ImportId"":""QID175_PAGE_SUBMIT""}","{""ImportId"":""QID175_CLICK_COUNT""}","{""ImportId"":""QID177_FIRST_CLICK""}","{""ImportId"":""QID177_LAST_CLICK""}","{""ImportId"":""QID177_PAGE_SUBMIT""}","{""ImportId"":""QID177_CLICK_COUNT""}","{""ImportId"":""QID179_FIRST_CLICK""}","{""ImportId"":""QID179_LAST_CLICK""}","{""ImportId"":""QID179_PAGE_SUBMIT""}","{""ImportId"":""QID179_CLICK_COUNT""}","{""ImportId"":""QID181_FIRST_CLICK""}","{""ImportId"":""QID181_LAST_CLICK""}","{""ImportId"":""QID181_PAGE_SUBMIT""}","{""ImportId"":""QID181_CLICK_COUNT""}","{""ImportId"":""QID183""}","{""ImportId"":""QID184_FIRST_CLICK""}","{""ImportId"":""QID184_LAST_CLICK""}","{""ImportId"":""QID184_PAGE_SUBMIT""}","{""ImportId"":""QID184_CLICK_COUNT""}","{""ImportId"":""QID186_FIRST_CLICK""}","{""ImportId"":""QID186_LAST_CLICK""}","{""ImportId"":""QID186_PAGE_SUBMIT""}","{""ImportId"":""QID186_CLICK_COUNT""}","{""ImportId"":""QID188_FIRST_CLICK""}","{""ImportId"":""QID188_LAST_CLICK""}","{""ImportId"":""QID188_PAGE_SUBMIT""}","{""ImportId"":""QID188_CLICK_COUNT""}","{""ImportId"":""QID190_FIRST_CLICK""}","{""ImportId"":""QID190_LAST_CLICK""}","{""ImportId"":""QID190_PAGE_SUBMIT""}","{""ImportId"":""QID190_CLICK_COUNT""}","{""ImportId"":""QID192""}","{""ImportId"":""QID193_FIRST_CLICK""}","{""ImportId"":""QID193_LAST_CLICK""}","{""ImportId"":""QID193_PAGE_SUBMIT""}","{""ImportId"":""QID193_CLICK_COUNT""}","{""ImportId"":""QID195_FIRST_CLICK""}","{""ImportId"":""QID195_LAST_CLICK""}","{""ImportId"":""QID195_PAGE_SUBMIT""}","{""ImportId"":""QID195_CLICK_COUNT""}","{""ImportId"":""QID197_FIRST_CLICK""}","{""ImportId"":""QID197_LAST_CLICK""}","{""ImportId"":""QID197_PAGE_SUBMIT""}","{""ImportId"":""QID197_CLICK_COUNT""}","{""ImportId"":""QID199_FIRST_CLICK""}","{""ImportId"":""QID199_LAST_CLICK""}","{""ImportId"":""QID199_PAGE_SUBMIT""}","{""ImportId"":""QID199_CLICK_COUNT""}","{""ImportId"":""QID201""}","{""ImportId"":""QID202_FIRST_CLICK""}","{""ImportId"":""QID202_LAST_CLICK""}","{""ImportId"":""QID202_PAGE_SUBMIT""}","{""ImportId"":""QID202_CLICK_COUNT""}","{""ImportId"":""QID204_FIRST_CLICK""}","{""ImportId"":""QID204_LAST_CLICK""}","{""ImportId"":""QID204_PAGE_SUBMIT""}","{""ImportId"":""QID204_CLICK_COUNT""}","{""ImportId"":""QID206_FIRST_CLICK""}","{""ImportId"":""QID206_LAST_CLICK""}","{""ImportId"":""QID206_PAGE_SUBMIT""}","{""ImportId"":""QID206_CLICK_COUNT""}","{""ImportId"":""QID208_FIRST_CLICK""}","{""ImportId"":""QID208_LAST_CLICK""}","{""ImportId"":""QID208_PAGE_SUBMIT""}","{""ImportId"":""QID208_CLICK_COUNT""}","{""ImportId"":""QID210""}","{""ImportId"":""QID211_FIRST_CLICK""}","{""ImportId"":""QID211_LAST_CLICK""}","{""ImportId"":""QID211_PAGE_SUBMIT""}","{""ImportId"":""QID211_CLICK_COUNT""}","{""ImportId"":""QID213_FIRST_CLICK""}","{""ImportId"":""QID213_LAST_CLICK""}","{""ImportId"":""QID213_PAGE_SUBMIT""}","{""ImportId"":""QID213_CLICK_COUNT""}","{""ImportId"":""QID215_FIRST_CLICK""}","{""ImportId"":""QID215_LAST_CLICK""}","{""ImportId"":""QID215_PAGE_SUBMIT""}","{""ImportId"":""QID215_CLICK_COUNT""}","{""ImportId"":""QID217_FIRST_CLICK""}","{""ImportId"":""QID217_LAST_CLICK""}","{""ImportId"":""QID217_PAGE_SUBMIT""}","{""ImportId"":""QID217_CLICK_COUNT""}","{""ImportId"":""QID219""}","{""ImportId"":""QID220_FIRST_CLICK""}","{""ImportId"":""QID220_LAST_CLICK""}","{""ImportId"":""QID220_PAGE_SUBMIT""}","{""ImportId"":""QID220_CLICK_COUNT""}","{""ImportId"":""QID222_FIRST_CLICK""}","{""ImportId"":""QID222_LAST_CLICK""}","{""ImportId"":""QID222_PAGE_SUBMIT""}","{""ImportId"":""QID222_CLICK_COUNT""}","{""ImportId"":""QID224_FIRST_CLICK""}","{""ImportId"":""QID224_LAST_CLICK""}","{""ImportId"":""QID224_PAGE_SUBMIT""}","{""ImportId"":""QID224_CLICK_COUNT""}","{""ImportId"":""QID226_FIRST_CLICK""}","{""ImportId"":""QID226_LAST_CLICK""}","{""ImportId"":""QID226_PAGE_SUBMIT""}","{""ImportId"":""QID226_CLICK_COUNT""}","{""ImportId"":""QID228""}","{""ImportId"":""QID229_FIRST_CLICK""}","{""ImportId"":""QID229_LAST_CLICK""}","{""ImportId"":""QID229_PAGE_SUBMIT""}","{""ImportId"":""QID229_CLICK_COUNT""}","{""ImportId"":""QID231_FIRST_CLICK""}","{""ImportId"":""QID231_LAST_CLICK""}","{""ImportId"":""QID231_PAGE_SUBMIT""}","{""ImportId"":""QID231_CLICK_COUNT""}","{""ImportId"":""QID233_FIRST_CLICK""}","{""ImportId"":""QID233_LAST_CLICK""}","{""ImportId"":""QID233_PAGE_SUBMIT""}","{""ImportId"":""QID233_CLICK_COUNT""}","{""ImportId"":""QID235_FIRST_CLICK""}","{""ImportId"":""QID235_LAST_CLICK""}","{""ImportId"":""QID235_PAGE_SUBMIT""}","{""ImportId"":""QID235_CLICK_COUNT""}","{""ImportId"":""QID237""}","{""ImportId"":""QID238_FIRST_CLICK""}","{""ImportId"":""QID238_LAST_CLICK""}","{""ImportId"":""QID238_PAGE_SUBMIT""}","{""ImportId"":""QID238_CLICK_COUNT""}","{""ImportId"":""QID240_FIRST_CLICK""}","{""ImportId"":""QID240_LAST_CLICK""}","{""ImportId"":""QID240_PAGE_SUBMIT""}","{""ImportId"":""QID240_CLICK_COUNT""}","{""ImportId"":""QID242_FIRST_CLICK""}","{""ImportId"":""QID242_LAST_CLICK""}","{""ImportId"":""QID242_PAGE_SUBMIT""}","{""ImportId"":""QID242_CLICK_COUNT""}","{""ImportId"":""QID244_FIRST_CLICK""}","{""ImportId"":""QID244_LAST_CLICK""}","{""ImportId"":""QID244_PAGE_SUBMIT""}","{""ImportId"":""QID244_CLICK_COUNT""}","{""ImportId"":""QID246""}","{""ImportId"":""QID247_FIRST_CLICK""}","{""ImportId"":""QID247_LAST_CLICK""}","{""ImportId"":""QID247_PAGE_SUBMIT""}","{""ImportId"":""QID247_CLICK_COUNT""}","{""ImportId"":""QID249_FIRST_CLICK""}","{""ImportId"":""QID249_LAST_CLICK""}","{""ImportId"":""QID249_PAGE_SUBMIT""}","{""ImportId"":""QID249_CLICK_COUNT""}","{""ImportId"":""QID251_FIRST_CLICK""}","{""ImportId"":""QID251_LAST_CLICK""}","{""ImportId"":""QID251_PAGE_SUBMIT""}","{""ImportId"":""QID251_CLICK_COUNT""}","{""ImportId"":""QID253_FIRST_CLICK""}","{""ImportId"":""QID253_LAST_CLICK""}","{""ImportId"":""QID253_PAGE_SUBMIT""}","{""ImportId"":""QID253_CLICK_COUNT""}","{""ImportId"":""QID255""}","{""ImportId"":""QID256_FIRST_CLICK""}","{""ImportId"":""QID256_LAST_CLICK""}","{""ImportId"":""QID256_PAGE_SUBMIT""}","{""ImportId"":""QID256_CLICK_COUNT""}","{""ImportId"":""QID258_FIRST_CLICK""}","{""ImportId"":""QID258_LAST_CLICK""}","{""ImportId"":""QID258_PAGE_SUBMIT""}","{""ImportId"":""QID258_CLICK_COUNT""}","{""ImportId"":""QID260_FIRST_CLICK""}","{""ImportId"":""QID260_LAST_CLICK""}","{""ImportId"":""QID260_PAGE_SUBMIT""}","{""ImportId"":""QID260_CLICK_COUNT""}","{""ImportId"":""QID262_FIRST_CLICK""}","{""ImportId"":""QID262_LAST_CLICK""}","{""ImportId"":""QID262_PAGE_SUBMIT""}","{""ImportId"":""QID262_CLICK_COUNT""}","{""ImportId"":""QID264""}","{""ImportId"":""QID265_FIRST_CLICK""}","{""ImportId"":""QID265_LAST_CLICK""}","{""ImportId"":""QID265_PAGE_SUBMIT""}","{""ImportId"":""QID265_CLICK_COUNT""}","{""ImportId"":""QID267_FIRST_CLICK""}","{""ImportId"":""QID267_LAST_CLICK""}","{""ImportId"":""QID267_PAGE_SUBMIT""}","{""ImportId"":""QID267_CLICK_COUNT""}","{""ImportId"":""QID269_FIRST_CLICK""}","{""ImportId"":""QID269_LAST_CLICK""}","{""ImportId"":""QID269_PAGE_SUBMIT""}","{""ImportId"":""QID269_CLICK_COUNT""}","{""ImportId"":""QID271_FIRST_CLICK""}","{""ImportId"":""QID271_LAST_CLICK""}","{""ImportId"":""QID271_PAGE_SUBMIT""}","{""ImportId"":""QID271_CLICK_COUNT""}","{""ImportId"":""QID273""}","{""ImportId"":""QID274_FIRST_CLICK""}","{""ImportId"":""QID274_LAST_CLICK""}","{""ImportId"":""QID274_PAGE_SUBMIT""}","{""ImportId"":""QID274_CLICK_COUNT""}","{""ImportId"":""QID276_FIRST_CLICK""}","{""ImportId"":""QID276_LAST_CLICK""}","{""ImportId"":""QID276_PAGE_SUBMIT""}","{""ImportId"":""QID276_CLICK_COUNT""}","{""ImportId"":""QID278_FIRST_CLICK""}","{""ImportId"":""QID278_LAST_CLICK""}","{""ImportId"":""QID278_PAGE_SUBMIT""}","{""ImportId"":""QID278_CLICK_COUNT""}","{""ImportId"":""QID280_FIRST_CLICK""}","{""ImportId"":""QID280_LAST_CLICK""}","{""ImportId"":""QID280_PAGE_SUBMIT""}","{""ImportId"":""QID280_CLICK_COUNT""}","{""ImportId"":""QID282""}","{""ImportId"":""QID283_FIRST_CLICK""}","{""ImportId"":""QID283_LAST_CLICK""}","{""ImportId"":""QID283_PAGE_SUBMIT""}","{""ImportId"":""QID283_CLICK_COUNT""}","{""ImportId"":""QID285_FIRST_CLICK""}","{""ImportId"":""QID285_LAST_CLICK""}","{""ImportId"":""QID285_PAGE_SUBMIT""}","{""ImportId"":""QID285_CLICK_COUNT""}","{""ImportId"":""QID287_FIRST_CLICK""}","{""ImportId"":""QID287_LAST_CLICK""}","{""ImportId"":""QID287_PAGE_SUBMIT""}","{""ImportId"":""QID287_CLICK_COUNT""}","{""ImportId"":""QID289_FIRST_CLICK""}","{""ImportId"":""QID289_LAST_CLICK""}","{""ImportId"":""QID289_PAGE_SUBMIT""}","{""ImportId"":""QID289_CLICK_COUNT""}","{""ImportId"":""QID291""}","{""ImportId"":""QID292_FIRST_CLICK""}","{""ImportId"":""QID292_LAST_CLICK""}","{""ImportId"":""QID292_PAGE_SUBMIT""}","{""ImportId"":""QID292_CLICK_COUNT""}","{""ImportId"":""QID294_FIRST_CLICK""}","{""ImportId"":""QID294_LAST_CLICK""}","{""ImportId"":""QID294_PAGE_SUBMIT""}","{""ImportId"":""QID294_CLICK_COUNT""}","{""ImportId"":""QID296_FIRST_CLICK""}","{""ImportId"":""QID296_LAST_CLICK""}","{""ImportId"":""QID296_PAGE_SUBMIT""}","{""ImportId"":""QID296_CLICK_COUNT""}","{""ImportId"":""QID129_1""}","{""ImportId"":""QID129_17""}","{""ImportId"":""QID129_2""}","{""ImportId"":""QID129_3""}","{""ImportId"":""QID129_4""}","{""ImportId"":""QID129_34""}","{""ImportId"":""QID129_5""}","{""ImportId"":""QID129_32""}","{""ImportId"":""QID129_7""}","{""ImportId"":""QID130_33""}","{""ImportId"":""QID130_8""}","{""ImportId"":""QID130_9""}","{""ImportId"":""QID130_10""}","{""ImportId"":""QID130_11""}","{""ImportId"":""QID130_34""}","{""ImportId"":""QID130_35""}","{""ImportId"":""QID130_12""}","{""ImportId"":""QID140_33""}","{""ImportId"":""QID140_8""}","{""ImportId"":""QID140_9""}","{""ImportId"":""QID140_10""}","{""ImportId"":""QID140_11""}","{""ImportId"":""QID140_34""}","{""ImportId"":""QID140_35""}","{""ImportId"":""QID132""}","{""ImportId"":""QID133""}","{""ImportId"":""QID134""}","{""ImportId"":""QID135""}","{""ImportId"":""QID127_1""}","{""ImportId"":""QID127_2""}","{""ImportId"":""QID127_3""}","{""ImportId"":""QID127_5""}","{""ImportId"":""QID127_6""}","{""ImportId"":""QID127_7""}","{""ImportId"":""QID127_8""}","{""ImportId"":""QID127_9""}","{""ImportId"":""QID127_10""}","{""ImportId"":""QID127_11""}","{""ImportId"":""QID127_12""}","{""ImportId"":""QID127_13""}","{""ImportId"":""QID127_14""}","{""ImportId"":""QID127_15""}","{""ImportId"":""QID127_16""}","{""ImportId"":""QID127_17""}","{""ImportId"":""QID127_18""}","{""ImportId"":""QID127_19""}","{""ImportId"":""QID127_20""}","{""ImportId"":""QID128_1""}","{""ImportId"":""QID128_21""}","{""ImportId"":""QID128_22""}","{""ImportId"":""QID128_23""}","{""ImportId"":""QID128_24""}","{""ImportId"":""QID128_25""}","{""ImportId"":""QID128_26""}","{""ImportId"":""QID128_27""}","{""ImportId"":""QID128_28""}","{""ImportId"":""QID128_29""}","{""ImportId"":""QID128_20""}","{""ImportId"":""QID128_19""}","{""ImportId"":""QID128_17""}","{""ImportId"":""QID128_16""}","{""ImportId"":""QID128_15""}","{""ImportId"":""QID128_14""}","{""ImportId"":""QID128_13""}","{""ImportId"":""QID128_12""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46""}","{""ImportId"":""QID47""}","{""ImportId"":""QID48""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID53""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59""}","{""ImportId"":""QID60""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62""}","{""ImportId"":""QID63""}","{""ImportId"":""QID64""}","{""ImportId"":""QID65""}","{""ImportId"":""QID66""}","{""ImportId"":""QID67""}","{""ImportId"":""QID68""}","{""ImportId"":""QID69""}","{""ImportId"":""QID70""}","{""ImportId"":""QID71""}","{""ImportId"":""QID72""}","{""ImportId"":""QID73""}","{""ImportId"":""QID74""}","{""ImportId"":""QID75""}","{""ImportId"":""QID76""}","{""ImportId"":""QID77""}","{""ImportId"":""QID78""}","{""ImportId"":""QID79""}","{""ImportId"":""QID80""}","{""ImportId"":""QID83_1""}","{""ImportId"":""QID83_2""}","{""ImportId"":""QID83_3""}","{""ImportId"":""QID83_4""}","{""ImportId"":""QID83_5""}","{""ImportId"":""QID83_6""}","{""ImportId"":""QID83_7""}","{""ImportId"":""QID83_8""}","{""ImportId"":""QID83_9""}","{""ImportId"":""QID83_10""}","{""ImportId"":""QID83_11""}","{""ImportId"":""QID83_12""}","{""ImportId"":""QID84_TEXT""}","{""ImportId"":""QID85_TEXT""}","{""ImportId"":""QID86_TEXT""}","{""ImportId"":""QID90""}","{""ImportId"":""QID91""}","{""ImportId"":""QID92""}","{""ImportId"":""QID93""}","{""ImportId"":""QID94""}","{""ImportId"":""QID300_1""}","{""ImportId"":""QID300_2""}","{""ImportId"":""QID300_3""}","{""ImportId"":""QID300_4""}","{""ImportId"":""QID300_5""}","{""ImportId"":""QID300_6""}","{""ImportId"":""QID96""}","{""ImportId"":""QID97""}","{""ImportId"":""QID98""}","{""ImportId"":""QID99""}","{""ImportId"":""QID100""}","{""ImportId"":""QID101""}","{""ImportId"":""QID102""}","{""ImportId"":""QID103""}","{""ImportId"":""QID104""}","{""ImportId"":""QID105""}","{""ImportId"":""QID106""}","{""ImportId"":""QID107""}","{""ImportId"":""QID108""}","{""ImportId"":""QID15_TEXT""}","{""ImportId"":""QID16_TEXT""}","{""ImportId"":""QID302_TEXT""}","{""ImportId"":""QID303_TEXT""}","{""ImportId"":""QID304""}","{""ImportId"":""QID304_6_TEXT""}","{""ImportId"":""QID305""}","{""ImportId"":""QID306_TEXT""}","{""ImportId"":""QID307""}","{""ImportId"":""QID308""}","{""ImportId"":""QID309""}","{""ImportId"":""QID309_6_TEXT""}","{""ImportId"":""QID310""}","{""ImportId"":""QID311_TEXT""}","{""ImportId"":""QID312""}"
+2016-08-04 17:13:11,2016-08-04 17:42:24,IP Address,128.138.210.160,100,1753,True,2016-08-04 17:42:26,R_1dLJQxicctWweA0,,,,,anonymous,,jj,,,,,,,,,,,2,3,2,5,"Very little
+1
+",2,2,2,2,5,6,"Very little
+1
+",3,3,5,6,3,6,3,5,6,5,"Very little
+1
+",3,2,"To some extent
+4
+",2,5,"Very little
+1
+",5,5,3,5,"Very little
+1
+","To some extent
+4
+",2,2,0,0,2.703,0,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,2.638,0,0,0,2.33,0,IM_cOqKiSDCAZfenxX,0,0,1.679,0,,,,,,,,,0,0,1.963,0,IM_bQS1dMRvajnPE9L,0,0,1.225,0,,,,,,,,,0,0,1.994,0,IM_0etxkZljeGcWJBr,0,0,1.289,0,,,,,,,,,0,0,1.998,0,IM_5zrCeOAHvITQ5fL,,,,,,,,,0,0,0.896,0,0,0,1.959,0,IM_7QlBGapA2rNm7wp,0,0,1.252,0,,,,,,,,,0,0,1.956,0,IM_78Oh87qj4E9rQTr,,,,,,,,,0,0,1.029,0,0,0,2.236,0,IM_blQpMXIX0cEhVU9,,,,,,,,,0,0,1.13,0,2.348,2.651,2.933,2,IM_00tQXRbHpXyDh7T,0,0,1.816,0,,,,,,,,,0,0,1.991,0,IM_3WQHXxurKEck5Cd,0,0,1.296,0,,,,,,,,,0,0,1.994,0,IM_6mqEClZaWupM3LT,0,0,1.41,0,,,,,,,,,0,0,2.028,0,IM_dhh8T2Ggw9AwPmR,,,,,,,,,0,0,1.366,0,0,0,2.273,0,IM_8cBg2nfxLzoB5d3,,,,,,,,,0,0,1.172,0,0,0,2.145,0,IM_cusf8GdKThdif1r,,,,,,,,,1.217,1.217,1.542,1,0,0,2.173,0,IM_7NXhwCIRt481nyB,,,,,,,,,0,0,1.495,0,0,0,2.144,0,IM_cXVe0swF1V4V8tT,0,0,1.144,0,,,,,,,,,0,0,2.094,0,IM_aXIqvgjyXdfSJTf,,,,,,,,,0,0,1.74,0,6,5,"To a large extent&nbsp;
+
+7
+",2,2,"To some extent
+4
+",3,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To some extent
+4
+","To some extent
+4
+",2,6,3,6,2,6,5,5,6,6,5,6,3,Days.,Hours.,Months.,Every week,5,"Very little
+1
+",5,"To a large extent
+7
+","Very little
+1
+","Very little
+1
+","Very little
+1
+",5,6,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+",6,2,"Very little
+1
+","To a large extent
+7
+",2,"To a large extent
+7
+",5,"To a large extent
+7
+","To some extent
+4
+",6,"Very little
+1
+",2,5,2,5,"Very little
+1
+",3,"Very little
+1
+",2,6,2,"To some extent
+4
+",6,"Very little
+1
+","Very little
+1
+",a student,No,No,I missed about half the time.,I did my work but had some minor problems.,Once or twice I felt a little ashamed.,I had many arguments.,Half the time I felt upset.,Half the time my work was uninteresting.,,,,,,,Full time,I missed about half the time.,I did my work but had some minor problems.,I never felt ashamed,I had no arguments and got along very well.,Once or twice I felt upset.,Half the time my work was uninteresting.,One friend,I was usually not able to talk about my feelings.,Once,I spent a little time on hobbies.,I had no arguments and got along very well.,I got over it in a week.,I usually felt uncomfortable.,I always felt lonely and wished for more friends.,Most of the time I felt bored.,Yes (answer questions 28 & 29),Never,I was completely uninterested.,Yes (answer questions 30-37),I had many arguments.,I usually was not able to talk about my feelings.,I have contacted relatives regularly.,Most of the time I depend on them.,Once or twice I wanted to oppose them.,Once or twice I worried.,About half the time I felt that I let them down.,I am bitter that they let me down.,No (go to question 47),,,,,,,,,,No (go to question 51),,,,,No (go to question 54),,,,I had enough money for needs.,Moderate,None,Mild,Severe,Mild,None,None,None,None,Moderate,None,Mild,20+,1,1-2,0 I do not feel happier or more cheerful than usual.,1 I occasionally feel more self-confident than usual.,1 I occasionally need less sleep than usual.,2 I often talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Somewhat,Moderately,Not at all,Not at all,Somewhat,Somewhat,I feel sad or blue.,I feel discouraged about the future.,I do not feel like a failure.,I don't enjoy things the way I used to.,I don't feel particularly guilty.,I don't feel disappointed in myself.,I don't have any thoughts of harming myself.,I am less interested in other people than I used to be.,I try to put off making decisions.,I don't feel that I look any worse than I used to.,It takes extra effort to get started at doing anything.,I get tired from doing anything.,My appetite is much worse now.,"Effexor: 37.5 mg, 3 months (not current), Focalin: varies between 30-40 mg, 2 months","Accutane: 25 mg, 1 month ",Venus,21,Caucasian/White,,Female,15,"  More than $100,000","  Unemployed (student)","  With Friend(s)/Roommate(s)",,Single (and not in a current relationship),0,7
+2016-08-05 13:48:26,2016-08-05 14:03:24,IP Address,128.138.210.170,100,897,True,2016-08-05 14:03:26,R_WwJ6OSfrCOWw2Rj,,,,,anonymous,999,DB,2,2,1,1,0,0,0,0,2,1,3,5,"To some extent
+4
+",6,5,5,3,2,3,3,5,"To some extent
+4
+",6,6,5,"To some extent
+4
+",3,6,"Very little
+1
+",5,6,2,"To some extent
+4
+",2,3,"To some extent
+4
+",3,"To some extent
+4
+",3,6,6,5,5,6,"To some extent
+4
+","To some extent
+4
+",5,0,0,4.02,0,IM_eyyXcmokvwYPkhv,0,0,2.926,0,,,,,,,,,0,0,3.882,0,IM_bjUsQY5oahDGhUx,,,,,0,0,2.884,0,,,,,0,0,4.108,0,IM_8bQvn7wYEcryWe9,,,,,,,,,0,0,1.662,0,0,0,4.369,0,IM_0etxkZljeGcWJBr,0,0,2.998,0,,,,,,,,,0,0,4.272,0,IM_aXmPUydvCBeA8Kh,0,0,3.125,0,,,,,,,,,0,0,4.168,0,IM_7QlBGapA2rNm7wp,0,0,3.232,0,,,,,,,,,0,0,4.122,0,IM_2mCt9qJ5YJQqAPX,0,0,4.068,0,,,,,,,,,0,0,5.423,0,IM_blQpMXIX0cEhVU9,,,,,,,,,0,0,3.08,0,0,0,4.153,0,IM_eqR1UV65B8lmFmt,,,,,,,,,0,0,1.638,0,0,0,3.921,0,IM_eKv3kg58gp8dRzL,,,,,,,,,0,0,3.176,0,0,0,4.381,0,IM_6mqEClZaWupM3LT,0,0,3.12,0,,,,,,,,,0,0,4.024,0,IM_78wh7ELO9zX6Nyl,0,0,3.331,0,,,,,,,,,0,0,3.973,0,IM_cBHX3xN8tVZUSCV,0,0,3.048,0,,,,,,,,,0,0,4.984,0,IM_a9QTIgBx6M7PQjP,,,,,0,0,2.957,0,,,,,0,0,4.183,0,IM_ePYxxagpQflly2F,,,,,0,0,3.159,0,,,,,0,0,3.977,0,IM_cXVe0swF1V4V8tT,0,0,3.083,0,,,,,,,,,0,0,4.279,0,IM_aXIqvgjyXdfSJTf,,,,,,,,,0,0,3.446,0,"To some extent
+4
+",2,5,3,5,2,"To a large extent&nbsp;
+
+7
+","To some extent
+4
+",2,2,"To some extent
+4
+",6,"To some extent
+4
+",2,6,3,5,2,5,6,5,5,"Not at all
+1
+","To some extent
+4
+",Hours.,Minutes.,Days.,Every day,"To some extent
+4
+",2,"To some extent
+4
+",3,5,6,"To some extent
+4
+",3,"To some extent
+4
+",5,6,2,"To some extent
+4
+",5,"Very little
+1
+","Very little
+1
+","To some extent
+4
+","To some extent
+4
+",6,2,5,"To some extent
+4
+","To some extent
+4
+",5,6,2,3,3,3,5,5,6,2,"To some extent
+4
+",2,"To some extent
+4
+",6,a student,Yes,Yes,I did not work any days,I did my work very well.,About half the time I felt ashamed.,I had more than one argument.,Half the time I felt upset.,My work was almost always interesting.,I did the housework about half the time.,I did my work poorly most of the time.,Once or twice I felt a little ashamed.,I usually got along well but had minor arguments.,I felt upset most of the time.,Once or twice my work was not interesting.,3/4 time,I did not go to classes at all,I did my work poorly most of the time.,I felt ashamed most of the time.,I had more than one argument.,Half the time I felt upset.,Once or twice my work was not interesting.,Five to eight friends,I usually can talk about my feelings.,Twice,I spent some spare time on hobbies some of the days.,I had more than one argument.,I got over it in a few days.,I usually felt uncomfortable.,About half the time I felt lonely.,Most of the time I felt bored.,Yes (answer questions 28 & 29),Once,About half the time I was interested.,Yes (answer questions 30-37),We usually got along very well but had some minor arguments.,About half the time I felt able to talk about my feelings.,"I avoided my relatives, but they contacted me.",About half the time I needed to depend on them.,Once or twice I wanted to oppose them.,About half the time I worried.,I usually did not feel that I let them down.,I felt that they usually did not let me down.,Yes (please answer questions 38-46),We had many arguments.,I usually could talk about my feelings.,About half the time I insisted on having my own way.,About half the time,I was always independent.,I usually felt dislike.,More than twice a week,None,I always enjoyed it.,Yes (answer questions 47-50),I was always disinterested.,About half the time I could communicate.,I had more than one argument.,About half the time I felt affection.,Yes (please answer questions 51-53),Most of the time I worried.,Most of the time I felt I let them down.,About half the time I felt they let me down.,I had enough money for needs.,Severe,Moderate,Mild,Severe,Mild,Severe,Moderate,Mild,Severe,Mild,Mild,Severe,22,22,11,3 I feel happier or more cheerful than usual most of the time.,1 I occasionally feel more self-confident than usual.,1 I occasionally need less sleep than usual.,4 I talk constantly and cannot be interrupted.,I have occasionally been more active than usual.,Somewhat,Very much,Not at all,Moderately,Moderately,Somewhat,I feel sad or blue.,I feel I have nothing to look forward to.,I feel I have failed more than the average person.,I don't enjoy things the way I used to.,I don't feel particularly guilty.,I hate myself.,I don't have any thoughts of harming myself.,I have lost all my interest in other people and don't care about them at all.,I have great difficulty in making decisions.,I am worried that I am looking old or unattractive.,I have to push myself very hard to do anything.,I get tired from doing anything.,My appetite is no worse than usual.,,,Jupiter,99,Caucasian/White,,Male,464,"$26,000-$50,000",Full-Time,Living Alone,,"  Divorced",16,10- top rung
+2016-08-04 15:45:51,2016-08-04 15:47:38,IP Address,128.138.65.119,1,107,False,2016-08-11 15:48:04,R_3Pc5T0jchn2bEoL,,,,,anonymous,999,AN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2016-08-05 14:00:17,2016-08-05 15:41:02,IP Address,128.138.210.147,15,6044,False,2016-08-12 15:41:35,R_V2Uop15A6prLMB3,,,,,anonymous,999,Kanye West,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.914,2.61,6.345,2,IM_bpvhzF2drbJpmKh,,,,,0,0,1.742,0,,,,,0,0,2.154,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.447,15.447,17.279,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2016-08-15 11:51:56,2016-08-15 12:32:54,IP Address,50.195.58.133,100,2457,True,2016-08-15 12:32:55,R_2a8ogJQSz9VB34u,,,,,anonymous,128_Y,JRM,2,2,1,1,1,1,0,0,1,1,2,"To some extent
+4
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","Very little
+1
+",2,2,"Very little
+1
+",3,2,"Very little
+1
+","Very little
+1
+",3,5,"Very little
+1
+","To some extent
+4
+",2,"Very little
+1
+",3,5,"Very little
+1
+","Very little
+1
+","To some extent
+4
+",2,6,"Very little
+1
+",5,"To some extent
+4
+",5,2,"To some extent
+4
+",6,"Very little
+1
+",3,"Very little
+1
+",2,0,0,3.926,0,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,3.95,0,0,0,4.083,0,IM_cOqKiSDCAZfenxX,0,0,7.75,0,,,,,,,,,0,0,2.804,0,IM_bQS1dMRvajnPE9L,0,0,3.389,0,,,,,,,,,0,0,5.737,0,IM_3vJkL7QRS1i9WV7,,,,,,,,,5.068,5.068,5.337,1,0,0,3.183,0,IM_aXmPUydvCBeA8Kh,0,0,6.469,0,,,,,,,,,0,0,2.675,0,IM_7QlBGapA2rNm7wp,0,0,19.894,0,,,,,,,,,0,0,2.867,0,IM_2mCt9qJ5YJQqAPX,0,0,5.687,0,,,,,,,,,0,0,10.398,0,IM_blQpMXIX0cEhVU9,,,,,,,,,0,0,4.981,0,0,0,11.661,0,IM_eqR1UV65B8lmFmt,,,,,,,,,0,0,2.114,0,0.444,0.444,2.79,1,IM_eKv3kg58gp8dRzL,,,,,,,,,0,0,1.73,0,0,0,4.541,0,IM_0qQnMaWfnNhZN5P,,,,,,,,,0,0,12.427,0,0,0,2.77,0,IM_78wh7ELO9zX6Nyl,0,0,3.813,0,,,,,,,,,0,0,3.019,0,IM_3IrBd8Y3oYVPHMN,,,,,0,0,2.936,0,,,,,0,0,2.635,0,IM_a9QTIgBx6M7PQjP,,,,,0,0,6.438,0,,,,,0,0,2.75,0,IM_7NXhwCIRt481nyB,,,,,,,,,0,0,4.565,0,0,0,3.441,0,IM_2ta2DVOywYoYo85,,,,,,,,,0,0,5.729,0,0,0,1.998,0,IM_aXIqvgjyXdfSJTf,,,,,,,,,0,0,3.427,0,6,5,6,"Not at all
+1
+","To some extent
+4
+","To some extent
+4
+",3,5,2,"Not at all
+1
+",6,2,6,"To some extent
+4
+",6,2,6,3,2,"To a large extent&nbsp;
+
+7
+",5,5,6,"To some extent
+4
+",Days.,Minutes.,Weeks.,Every week,6,"Very little
+1
+","To some extent
+4
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+","Very little
+1
+",6,2,"Very little
+1
+","To some extent
+4
+","Very little
+1
+",6,"Very little
+1
+","Very little
+1
+","To some extent
+4
+",2,6,5,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",5,3,"To some extent
+4
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To some extent
+4
+","To a large extent
+7
+",2,"Very little
+1
+",5,"Very little
+1
+","Very little
+1
+",a worker for pay,Yes,Yes,No days missed,I did my work but had some minor problems.,Once or twice I felt a little ashamed.,I usually got along well but had minor arguments.,I have never felt upset.,Half the time my work was uninteresting.,,,,,,,,,,,,,,Five to eight friends,About half the time I felt able to talk about my feelings.,More than 3 times,I spent some spare time on hobbies some of the days.,I usually got along but had minor arguments.,I got over it in a few days.,I always felt comfortable.,I have felt lonely a few times.,About half the time I felt bored.,No (go to question 30),,,Yes (answer questions 30-37),We always got along very well.,I usually was not able to talk about my feelings.,I have contacted a relative at least once.,About half the time I needed to depend on them.,I never wanted to oppose them.,I have not worried without reason.,I did not feel that I let them down at all.,I never felt that they let me down.,No (go to question 47),,,,,,,,,,No (go to question 51),,,,,No (go to question 54),,,,I had enough money for needs.,None,None,None,None,None,None,None,None,None,None,None,None,0,0,0,0 I do not feel happier or more cheerful than usual.,0 I do not feel more self-confident than usual.,2 I often need less sleep than usual.,2 I often talk more than usual.,I have frequently been more active than usual.,Moderately,Somewhat,Not at all,Moderately,Moderately,Not at all,I feel sad or blue.,I feel I have nothing to look forward to.,"As I look back on my life, all I can see is a lot of failures.",I am not particularly dissatisfied.,I don't feel particularly guilty.,I am disappointed in myself.,I don't have any thoughts of harming myself.,I have not lost interest in other people.,I try to put off making decisions.,I don't feel that I look any worse than I used to.,It takes extra effort to get started at doing anything.,I get tired more easily than I used to.,My appetite is no worse than usual.,"LITHIUM, 600mg twice daily, 5 years",None,Venus,26,Caucasian/White,,Male,12,"  $51,000-$75,000",Full-Time,"  With Family Member(s)",,"	 		  Single (in a current relationship)",0,5
+2016-08-15 12:48:28,2016-08-15 13:20:47,IP Address,96.233.162.247,100,1938,True,2016-08-15 13:20:48,R_3FWEyDWtuqxdG3u,,,,,anonymous,136Y,jtc,1,1,0,0,0,0,0,0,1,1,"To some extent
+4
+","Very little
+1
+",3,3,"Very little
+1
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+","To some extent
+4
+","Very little
+1
+",5,"Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+",5,"To some extent
+4
+",6,2,3,"Very little
+1
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+",5,"Very little
+1
+",6,"Very little
+1
+","Very little
+1
+",3,"Very little
+1
+","Very little
+1
+",6,"Very little
+1
+","Very little
+1
+",0,0,6.019,0,IM_eyyXcmokvwYPkhv,0,0,3.343,0,,,,,,,,,0,0,3.895,0,IM_cOqKiSDCAZfenxX,0,0,2.959,0,,,,,,,,,0,0,4.439,0,IM_8bQvn7wYEcryWe9,,,,,,,,,0,0,3.703,0,0,0,3.84,0,IM_0etxkZljeGcWJBr,0,0,3.415,0,,,,,,,,,0,0,3.784,0,IM_aXmPUydvCBeA8Kh,0,0,5.069,0,,,,,,,,,0,0,3.25,0,IM_7QlBGapA2rNm7wp,0,0,3.329,0,,,,,,,,,0,0,4.037,0,IM_2mCt9qJ5YJQqAPX,0,0,3.404,0,,,,,,,,,0,0,4.204,0,IM_d0Ymp3nyFL9iEXH,0,0,3.109,0,,,,,,,,,0,0,3.833,0,IM_00tQXRbHpXyDh7T,0,0,3.487,0,,,,,,,,,0,0,2.603,0,IM_3WQHXxurKEck5Cd,0,0,3.472,0,,,,,,,,,0,0,3.987,0,IM_0qQnMaWfnNhZN5P,,,,,,,,,0,0,3.724,0,0,0,3.969,0,IM_dhh8T2Ggw9AwPmR,,,,,,,,,0,0,3.566,0,0,0,4.304,0,IM_8cBg2nfxLzoB5d3,,,,,,,,,0,0,2.393,0,0,0,3.798,0,IM_cusf8GdKThdif1r,,,,,,,,,0,0,4.421,0,0,0,4.186,0,IM_3VFfiyQOfZxlWct,0,0,3.322,0,,,,,,,,,0,0,3.991,0,IM_cXVe0swF1V4V8tT,0,0,2.962,0,,,,,,,,,0,0,4.229,0,IM_aXIqvgjyXdfSJTf,,,,,,,,,0,0,3.45,0,"To a large extent&nbsp;
+
+7
+",5,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To some extent
+4
+","To some extent
+4
+","To some extent
+4
+",6,2,2,2,3,5,3,3,2,6,"To some extent
+4
+","To some extent
+4
+","To some extent
+4
+","To some extent
+4
+","To some extent
+4
+",6,3,Days.,Days.,Weeks.,Not at all,6,"Very little
+1
+",6,6,"Very little
+1
+","Very little
+1
+","Very little
+1
+",6,6,"Very little
+1
+",6,"Very little
+1
+",6,"Very little
+1
+","Very little
+1
+",6,2,6,6,6,"Very little
+1
+",6,"Very little
+1
+",2,6,"Very little
+1
+",6,"Very little
+1
+",6,"Very little
+1
+","Very little
+1
+",6,6,"Very little
+1
+",6,"Very little
+1
+","Very little
+1
+",retired,No,No,No days missed,,,,,,Every day.,I did my work but had some minor problems.,I never felt ashamed.,I usually got along well but had minor arguments.,I never felt upset.,Half the time my work was uninteresting.,,,,,,,,No Friends,I usually can talk about my feelings.,None,I spent some spare time on hobbies some of the days.,I usually got along but had minor arguments.,It did not affect me or it did not happen.,About half the time I felt uncomfortable.,I have not felt lonely.,I usually did not feel bored.,Yes (answer questions 28 & 29),Never,I was completely uninterested.,Yes (answer questions 30-37),We usually got along very well but had some minor arguments.,I can always talk about my feelings with at least one relative.,I have contacted relatives regularly.,Most of the time I depend on them.,I never wanted to oppose them.,I have not worried without reason.,I did not feel that I let them down at all.,I never felt that they let me down.,No (go to question 47),,,,,,,,,,No (go to question 51),,,,,No (go to question 54),,,,"I usually had enough money, with minor problems.",Severe,Mild,Mild,Moderate,Moderate,Mild,Severe,Mild,None,None,None,Mild,30,0,0,2 I often feel happier or more cheerful than usual.,2 I often feel more self-confident than usual.,1 I occasionally need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Very much,Not at all,Not at all,Very much,Very much,Not at all,I do not feel sad.,I do not feel that the future is hopeless and that things cannot improve.,I do not feel like a failure.,I am not particularly dissatisfied.,I don't feel particularly guilty.,I don't feel disappointed in myself.,I don't have any thoughts of harming myself.,I am less interested in other people than I used to be.,I make decisions about as well as ever.,I don't feel that I look any worse than I used to.,It takes extra effort to get started at doing anything.,I get tired more easily than I used to.,My appetite is no worse than usual.,"fluoxetine, 20mg - +10 years
+lamotrigine 50 mg 2 years
+bupirone 15 mg +10 years
+Olanzapine 2.5 mg  +10 years
+ all psych meds reduced to minimal doses in the last year","all psych meds reduced to minimal doses in the last year
+
+Started injectable insulin with the last year",Venus,52,Caucasian/White,,Male,14,"$10,000 - $25,000",Retired,"  With Family Member(s)",,Single (and not in a current relationship),0,4
+2016-08-15 13:06:20,2016-08-15 14:04:33,IP Address,66.87.133.179,100,3492,True,2016-08-15 14:04:34,R_1pQhU4sntuz28Ch,,,,,anonymous,163_Y,BS,1,1,1,1,1,1,1,1,2,2,"To some extent
+4
+","To a large extent
+7
+",2,"To some extent
+4
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+",3,"To some extent
+4
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+","Very little
+1
+",5,6,"To some extent
+4
+","To some extent
+4
+",3,"To some extent
+4
+","Very little
+1
+",3,"Very little
+1
+","Very little
+1
+",2,"To some extent
+4
+","Very little
+1
+","To some extent
+4
+","To some extent
+4
+","To some extent
+4
+","Very little
+1
+","To some extent
+4
+",5,3,"Very little
+1
+","Very little
+1
+","To some extent
+4
+",1.45,1.45,2.668,1,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,1.569,0,1.019,2.053,3.576,2,IM_b3goA4TblW4ROU5,,,,,,,,,0,0,0.874,0,0,0,2.177,0,IM_bQS1dMRvajnPE9L,0,0,1.043,0,,,,,,,,,0.769,1.482,2.033,2,IM_3vJkL7QRS1i9WV7,,,,,,,,,0.691,0.691,2.537,1,0,0,2.163,0,IM_aXmPUydvCBeA8Kh,0,0,1.154,0,,,,,,,,,0.639,1.508,2.072,2,IM_7QlBGapA2rNm7wp,0.743,0.743,1.303,1,,,,,,,,,0.895,1.691,2.265,2,IM_2mCt9qJ5YJQqAPX,21.66,21.66,22.249,1,,,,,,,,,1.172,1.172,2.307,1,IM_d0Ymp3nyFL9iEXH,1.391,1.391,2.678,1,,,,,,,,,0.744,1.696,2.299,2,IM_00tQXRbHpXyDh7T,0.581,1.408,2.386,2,,,,,,,,,0.912,2.011,3.474,2,IM_3WQHXxurKEck5Cd,0,0,4.926,0,,,,,,,,,0.704,1.782,2.406,2,IM_6mqEClZaWupM3LT,0.456,0.456,1.083,1,,,,,,,,,1.147,1.147,4.146,1,IM_78wh7ELO9zX6Nyl,0,0,1.566,0,,,,,,,,,1.271,1.271,2.244,1,IM_cBHX3xN8tVZUSCV,0,0,10.604,0,,,,,,,,,0.637,1.753,2.139,2,IM_bezClOEUZsmj3IV,0.737,1.867,2.474,2,,,,,,,,,0,0,216.104,0,IM_7NXhwCIRt481nyB,,,,,,,,,0,0,374.657,0,1.94,1.94,2.731,1,IM_cXVe0swF1V4V8tT,0.818,0.818,2.472,1,,,,,,,,,12.707,12.707,13.268,1,IM_aXIqvgjyXdfSJTf,,,,,,,,,0.561,0.561,1.202,1,"To a large extent&nbsp;
+
+7
+","To some extent
+4
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","Not at all
+1
+","To some extent
+4
+",3,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To some extent
+4
+","To some extent
+4
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","To some extent
+4
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To some extent
+4
+",2,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+",Months.,Weeks.,Months.,Not at all,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",a worker for pay,Yes,Yes,One day,I did my work very well.,I have never felt ashamed,I had no arguments and got along very well.,Once or twice I felt upset.,Once or twice my work was not interesting.,,,,,,,Full time,No days missed,I did my work but had some minor problems.,Once or twice I felt a little ashamed.,I had no arguments and got along very well.,Once or twice I felt upset.,Half the time my work was uninteresting.,Five to eight friends,About half the time I felt able to talk about my feelings.,None,I usually did not spend any time on hobbies but did watch TV.,I usually got along but had minor arguments.,I got over it in a few days.,About half the time I felt uncomfortable.,About half the time I felt lonely.,About half the time I felt bored.,Yes (answer questions 28 & 29),Once,Most of the time I was not interested.,Yes (answer questions 30-37),I had many arguments.,About half the time I felt able to talk about my feelings.,I have waited for my relatives to contact me.,I usually did not need to depend on them.,Once or twice I wanted to oppose them.,Once or twice I worried.,Most of the time I have felt that I let them down.,I usually have felt that they let me down.,No (go to question 47),,,,,,,,,,No (go to question 51),,,,,No (go to question 54),,,,I had great financial difficulty.,Moderate,Mild,None,Mild,Severe,None,Moderate,None,None,Severe,None,Mild,20,0,10,0 I do not feel happier or more cheerful than usual.,0 I do not feel more self-confident than usual.,0 I do not need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Moderately,Not at all,Not at all,Moderately,Moderately,Not at all,I feel sad or blue.,I do not feel that the future is hopeless and that things cannot improve.,I feel I have failed more than the average person.,I don't enjoy things the way I used to.,I feel bad or unworthy a good part of the time.,I am disappointed in myself.,I don't have any thoughts of harming myself.,I have lost most of my interest in other people and have little feeling for them.,I have great difficulty in making decisions.,I am worried that I am looking old or unattractive.,I can work about as well as before.,I get tired more easily than I used to.,My appetite is not as good as it used to be.,"None. ",None,Venus,22,"Caucasian/White,African-American/Black",,Female,14,"$26,000-$50,000",Full-Time,Living Alone,,Single (and not in a current relationship),P0,5
+2016-08-15 12:06:21,2016-08-15 14:29:49,IP Address,173.162.202.125,100,8607,True,2016-08-15 14:29:51,R_2whSVQ0vHaeC6H9,,,,,anonymous,130_Y,JB,2,2,1,0,0,0,0,0,2,1,5,"Very little
+1
+","To some extent
+4
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+","To some extent
+4
+","Very little
+1
+",3,"Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+",3,"Very little
+1
+",3,5,6,"Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+",5,"Very little
+1
+","To some extent
+4
+","Very little
+1
+",6,"Very little
+1
+","Very little
+1
+",5,"Very little
+1
+","Very little
+1
+",6,"Very little
+1
+","Very little
+1
+",0,0,4.505,0,IM_bpvhzF2drbJpmKh,,,,,0,0,2.499,0,,,,,4.071,4.071,4.906,1,IM_cOqKiSDCAZfenxX,0,0,2.838,0,,,,,,,,,0,0,3.466,0,IM_bQS1dMRvajnPE9L,0,0,2.43,0,,,,,,,,,0,0,3.358,0,IM_0etxkZljeGcWJBr,0,0,1.319,0,,,,,,,,,0,0,3.42,0,IM_5zrCeOAHvITQ5fL,,,,,,,,,0,0,1.669,0,0,0,3.533,0,IM_7QlBGapA2rNm7wp,0,0,2.068,0,,,,,,,,,0,0,3.196,0,IM_2mCt9qJ5YJQqAPX,0,0,2.969,0,,,,,,,,,0,0,2.548,0,IM_d0Ymp3nyFL9iEXH,0,0,1.16,0,,,,,,,,,3.842,3.842,3.857,1,IM_00tQXRbHpXyDh7T,1.505,1.505,1.915,1,,,,,,,,,0,0,3.356,0,IM_3WQHXxurKEck5Cd,0,0,1.772,0,,,,,,,,,0,0,3.781,0,IM_0qQnMaWfnNhZN5P,,,,,,,,,0,0,2.941,0,3.566,3.566,4.708,1,IM_78wh7ELO9zX6Nyl,0,0,3.195,0,,,,,,,,,0,0,3.317,0,IM_cBHX3xN8tVZUSCV,0,0,1.094,0,,,,,,,,,0,0,3.728,0,IM_bezClOEUZsmj3IV,1.801,1.801,2.436,1,,,,,,,,,0,0,3.383,0,IM_3VFfiyQOfZxlWct,0,0,1.379,0,,,,,,,,,0,0,3.597,0,IM_cXVe0swF1V4V8tT,0,0,3.403,0,,,,,,,,,3.644,3.644,4.585,1,IM_3Qqm6kq6dR60zg9,0,0,1.568,0,,,,,,,,,6,3,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To some extent
+4
+","To some extent
+4
+",3,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+","Not at all
+1
+","Not at all
+1
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+",6,"To a large extent&nbsp;
+
+7
+","To some extent
+4
+",2,"To some extent
+4
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+",Days.,Hours.,Weeks.,Every week,"To a large extent
+7
+","Very little
+1
+",6,6,"Very little
+1
+","Very little
+1
+","Very little
+1
+",6,5,"Very little
+1
+",6,"Very little
+1
+",5,"Very little
+1
+","Very little
+1
+",5,"Very little
+1
+",6,"To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+",6,"Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+",6,"Very little
+1
+","Very little
+1
+",6,"To some extent
+4
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",a worker for pay,Yes,Yes,No days missed,I did my work very well.,I have never felt ashamed,I had no arguments and got along very well.,I have never felt upset.,My work was uninteresting.,,,,,,,,,,,,,,Two to four friends,I usually can talk about my feelings.,Three times,I spent some spare time on hobbies some of the days.,I had no arguments and got along very well.,It did not affect me or it did not happen.,Sometimes I felt uncomfortable but could relax after a while.,I have not felt lonely.,I never felt bored.,Yes (answer questions 28 & 29),Never,Most of the time I was not interested.,No (go to question 36),We always got along very well.,I can always talk about my feelings with at least one relative.,I have waited for my relatives to contact me.,I never need to depend on them.,I never wanted to oppose them.,I have not worried without reason.,I did not feel that I let them down at all.,I never felt that they let me down.,No (go to question 47),,,,,,,,,,No (go to question 51),,,,,Yes (please answer questions 51-53),Not applicable; partner and children not living.,I did not feel I let them down.,I never felt they let me down.,I had enough money for needs.,None,None,None,None,None,None,None,None,None,Mild,None,None,1,0,0,0 I do not feel happier or more cheerful than usual.,0 I do not feel more self-confident than usual.,0 I do not need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Very much,Not at all,Not at all,Very much,Very much,Not at all,I do not feel sad.,I do not feel that the future is hopeless and that things cannot improve.,I do not feel like a failure.,I am not particularly dissatisfied.,I don't feel particularly guilty.,I don't feel disappointed in myself.,I don't have any thoughts of harming myself.,I have not lost interest in other people.,I make decisions about as well as ever.,I don't feel that I look any worse than I used to.,I can work about as well as before.,I don't get more tired than usual.,My appetite is no worse than usual.,No change,No change,Venus,51,Caucasian/White,,Female,15,"$26,000-$50,000",Full-Time,Living Alone,,"  Divorced",0,3
+2016-08-15 18:37:18,2016-08-15 19:26:21,IP Address,73.114.22.130,100,2943,True,2016-08-15 19:26:23,R_b8wYmEJWPGzQgFj,,,,,anonymous,70_Y,LRS,1,2,1,1,0,0,0,0,2,1,3,3,"Very little
+1
+",3,"Very little
+1
+","Very little
+1
+","Very little
+1
+",3,2,"Very little
+1
+","To some extent
+4
+","Very little
+1
+",2,2,"Very little
+1
+","To some extent
+4
+",3,3,2,"To some extent
+4
+","Very little
+1
+",3,"Very little
+1
+","Very little
+1
+","Very little
+1
+",3,2,3,2,2,"To some extent
+4
+",3,"To some extent
+4
+","Very little
+1
+",2,"Very little
+1
+",3,0,0,4.684,0,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,3.165,0,0,0,3.181,0,IM_b3goA4TblW4ROU5,,,,,,,,,0,0,1.583,0,0,0,2.402,0,IM_bQS1dMRvajnPE9L,0,0,2.65,0,,,,,,,,,0,0,2.814,0,IM_0etxkZljeGcWJBr,0,0,1.384,0,,,,,,,,,0,0,2.084,0,IM_5zrCeOAHvITQ5fL,,,,,,,,,0,0,2.353,0,0,0,3.052,0,IM_7QlBGapA2rNm7wp,0,0,1.564,0,,,,,,,,,0,0,2.526,0,IM_9ucYW8gb88GMOoZ,,,,,0,0,2.956,0,,,,,0,0,3.698,0,IM_6rlJuWK5CD7N1yJ,,,,,0,0,2.413,0,,,,,0,0,3.457,0,IM_00tQXRbHpXyDh7T,0,0,1.533,0,,,,,,,,,0,0,2.634,0,IM_3WQHXxurKEck5Cd,0,0,1.27,0,,,,,,,,,0,0,2.924,0,IM_6mqEClZaWupM3LT,0,0,1.447,0,,,,,,,,,0,0,2.271,0,IM_78wh7ELO9zX6Nyl,0,0,1.856,0,,,,,,,,,0,0,2.448,0,IM_8cBg2nfxLzoB5d3,,,,,,,,,0,0,1.318,0,0,0,2.24,0,IM_bezClOEUZsmj3IV,0,0,2.127,0,,,,,,,,,0,0,2.547,0,IM_7NXhwCIRt481nyB,,,,,,,,,0,0,1.266,0,0,0,2.116,0,IM_cXVe0swF1V4V8tT,0,0,2.731,0,,,,,,,,,0,0,2.271,0,IM_cI4XGRMevM7MOcl,,,,,0,0,2.817,0,,,,,"To a large extent&nbsp;
+
+7
+","To some extent
+4
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","Not at all
+1
+","Not at all
+1
+","To some extent
+4
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","Not at all
+1
+","Not at all
+1
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To some extent
+4
+","To some extent
+4
+","To some extent
+4
+","To a large extent&nbsp;
+
+7
+","To some extent
+4
+",Weeks.,Minutes.,Days.,Every week,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",a worker for pay,Yes,Yes,No days missed,I did my work very well.,I have never felt ashamed,I had no arguments and got along very well.,Once or twice I felt upset.,My work was almost always interesting.,,,,,,,Half time,No days missed,I did my work very well.,I never felt ashamed,I had no arguments and got along very well.,I have never felt upset.,My work was almost always interesting.,No Friends,I was never able to talk about my feelings.,Twice,I usually did not spend any time on hobbies but did watch TV.,I had no arguments and got along very well.,Not applicable; I have no friends.,Sometimes I felt uncomfortable but could relax after a while.,I have felt lonely a few times.,I usually did not feel bored.,No (go to question 30),,,Yes (answer questions 30-37),We always got along very well.,I can always talk about my feelings with at least one relative.,I have contacted a relative at least once.,About half the time I needed to depend on them.,I never wanted to oppose them.,I have not worried without reason.,I did not feel that I let them down at all.,I never felt that they let me down.,Yes (please answer questions 38-46),We usually got along very well but had some minor arguments.,I could always talk about my feelings.,I have not insisted on always having my own way.,Once or twice,I was usually independent.,I usually felt affection,Less than once every two weeks but at least once in the past month,None,I always enjoyed it.,No (go to question 51),,,,,Yes (please answer questions 51-53),I never worried.,I did not feel I let them down.,I never felt they let me down.,"I usually had enough money, with minor problems.",None,None,None,Mild,None,None,None,Moderate,None,None,None,Mild,10,0,0,0 I do not feel happier or more cheerful than usual.,1 I occasionally feel more self-confident than usual.,0 I do not need less sleep than usual.,1 I occasionally talk more than usual.,I have occasionally been more active than usual.,Very much,Not at all,Somewhat,Moderately,Moderately,Somewhat,I do not feel sad.,I feel discouraged about the future.,I do not feel like a failure.,I don't enjoy things the way I used to.,I don't feel particularly guilty.,I don't feel disappointed in myself.,I don't have any thoughts of harming myself.,I am less interested in other people than I used to be.,I make decisions about as well as ever.,I don't feel that I look any worse than I used to.,I can work about as well as before.,I don't get more tired than usual.,My appetite is no worse than usual.,No medications,No medications,Venus,57,Caucasian/White,,Male,16,"$26,000-$50,000","	 		  Part-Time","  With Spouse/Partner",,"  Married",4,5
+2016-08-15 19:07:29,2016-08-15 19:35:49,IP Address,71.192.130.6,100,1700,True,2016-08-15 19:35:52,R_1gtngQ8d5EM5nHm,,,,,anonymous,295_Y,NF,2,2,1,1,1,1,1,1,2,2,5,2,"To some extent
+4
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+",2,5,5,2,6,"Very little
+1
+",3,"Very little
+1
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+",5,6,"To some extent
+4
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+",5,2,5,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To some extent
+4
+",6,"Very little
+1
+","Very little
+1
+",6,"Very little
+1
+","Very little
+1
+",0,0,6.392,0,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,5.154,0,0,0,4.799,0,IM_cOqKiSDCAZfenxX,1.368,1.368,2.091,1,,,,,,,,,0,0,3.792,0,IM_bQS1dMRvajnPE9L,0,0,6.88,0,,,,,,,,,0,0,3.52,0,IM_0etxkZljeGcWJBr,0,0,2.636,0,,,,,,,,,0,0,1.499,0,IM_aXmPUydvCBeA8Kh,0,0,1.204,0,,,,,,,,,0,0,3.481,0,IM_7QlBGapA2rNm7wp,0,0,2.574,0,,,,,,,,,0,0,3.514,0,IM_2mCt9qJ5YJQqAPX,0,0,1.033,0,,,,,,,,,0,0,3.545,0,IM_d0Ymp3nyFL9iEXH,0,0,1.369,0,,,,,,,,,0,0,3.438,0,IM_00tQXRbHpXyDh7T,0,0,2.492,0,,,,,,,,,0,0,3.655,0,IM_3WQHXxurKEck5Cd,0,0,2.907,0,,,,,,,,,0,0,3.569,0,IM_6mqEClZaWupM3LT,0,0,2.545,0,,,,,,,,,0,0,4.968,0,IM_78wh7ELO9zX6Nyl,0,0,2.618,0,,,,,,,,,0,0,3.559,0,IM_cBHX3xN8tVZUSCV,0,0,1.608,0,,,,,,,,,0,0,3.686,0,IM_bezClOEUZsmj3IV,0,0,4.244,0,,,,,,,,,0,0,3.478,0,IM_7NXhwCIRt481nyB,,,,,,,,,0,0,2.84,0,0,0,3.481,0,IM_cXVe0swF1V4V8tT,0,0,2.877,0,,,,,,,,,0,0,4.209,0,IM_3Qqm6kq6dR60zg9,0,0,2.785,0,,,,,,,,,5,6,"To some extent
+4
+",3,"To some extent
+4
+","To some extent
+4
+",2,6,2,"Not at all
+1
+",6,2,6,2,6,2,6,2,"Not at all
+1
+",6,"To some extent
+4
+",6,"To a large extent&nbsp;
+
+7
+",3,Days.,Hours.,Weeks.,Every week,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",6,3,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",a worker for pay,No,Yes,No days missed,I did my work but had some minor problems.,I have never felt ashamed,I had no arguments and got along very well.,Once or twice I felt upset.,Once or twice my work was not interesting.,,,,,,,,,,,,,,Two to four friends,I usually can talk about my feelings.,Three times,I usually did not spend any time on hobbies but did watch TV.,I had no arguments and got along very well.,It did not affect me or it did not happen.,I always felt comfortable.,I have not felt lonely.,About half the time I felt bored.,No (go to question 30),,,Yes (answer questions 30-37),We always got along very well.,I can always talk about my feelings with at least one relative.,I have contacted relatives regularly.,Most of the time I depend on them.,I never wanted to oppose them.,Once or twice I worried.,I usually did not feel that I let them down.,I usually have felt that they let me down.,Yes (please answer questions 38-46),We usually got along very well but had some minor arguments.,I could always talk about my feelings.,I usually have not insisted on having my own way.,Almost never,I was usually dependent.,I usually felt affection,Once or twice a week,None,I usually enjoyed it.,Yes (answer questions 47-50),I was usually interested and involved.,I was always able to communicate with them.,I usually got along very well but had some minor arguments.,I always felt affection.,Yes (please answer questions 51-53),Once or twice worried.,I usually did not feel that I let them down.,I never felt they let me down.,"I usually had enough money, with minor problems.",None,Severe,None,Mild,Mild,None,Moderate,None,None,None,None,Mild,20,5,10,1 I occasionally feel happier or more cheerful than usual.,0 I do not feel more self-confident than usual.,0 I do not need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Somewhat,Not at all,Not at all,Somewhat,Somewhat,Not at all,I do not feel sad.,I do not feel that the future is hopeless and that things cannot improve.,I do not feel like a failure.,I am not particularly dissatisfied.,I don't feel particularly guilty.,I don't feel disappointed in myself.,I don't have any thoughts of harming myself.,I have not lost interest in other people.,I make decisions about as well as ever.,I don't feel that I look any worse than I used to.,It takes extra effort to get started at doing anything.,I get tired more easily than I used to.,My appetite is not as good as it used to be.,"Lithium 900mg
+Gabapentin 600mg",Diclegis - morning sickness (pregnancy),"Venus ",26,Caucasian/White,,Female,13,"  $51,000-$75,000","	 		  Part-Time","  With Spouse/Partner and Children",,"  Married",1,4
+2016-08-15 20:30:46,2016-08-15 21:06:54,IP Address,68.112.229.15,100,2167,True,2016-08-15 21:06:56,R_NWOKzrlyMkkA0rD,,,,,anonymous,245_Y,AK,1,2,1,1,0,0,0,0,1,1,3,5,2,2,"To some extent
+4
+",5,"Very little
+1
+",2,3,2,2,"Very little
+1
+","To some extent
+4
+","To some extent
+4
+","To some extent
+4
+","To some extent
+4
+","To some extent
+4
+",3,3,"To some extent
+4
+",2,2,3,"To some extent
+4
+",2,"To some extent
+4
+","Very little
+1
+",5,3,6,5,3,6,3,2,"Very little
+1
+",5,0,0,6.342,0,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,4.184,0,0,0,3.785,0,IM_b3goA4TblW4ROU5,,,,,,,,,0,0,4.923,0,0,0,3.362,0,IM_bQS1dMRvajnPE9L,0,0,2.183,0,,,,,,,,,0,0,4.431,0,IM_3vJkL7QRS1i9WV7,,,,,,,,,0,0,3.746,0,0,0,3.178,0,IM_0PYwmeK3V2nL9Zj,,,,,0,0,2.304,0,,,,,0,0,3.504,0,IM_4TQHt9Ry6o3lkFL,,,,,,,,,0,0,3.793,0,0,0,7.976,0,IM_9ucYW8gb88GMOoZ,,,,,0,0,3.976,0,,,,,0,0,14.686,0,IM_d0Ymp3nyFL9iEXH,0,0,3.1,0,,,,,,,,,0,0,3.197,0,IM_1SrRYl9AgjXFf0N,,,,,0,0,4.02,0,,,,,0,0,3.31,0,IM_eKv3kg58gp8dRzL,,,,,,,,,0,0,3.334,0,0,0,3.539,0,IM_5o4dsbzbgsk4B37,,,,,0,0,3.755,0,,,,,0,0,3.33,0,IM_dhh8T2Ggw9AwPmR,,,,,,,,,0,0,3.051,0,0,0,3.184,0,IM_8cBg2nfxLzoB5d3,,,,,,,,,0,0,2.748,0,0,0,2.754,0,IM_a9QTIgBx6M7PQjP,,,,,0,0,2.832,0,,,,,0,0,3.3,0,IM_7NXhwCIRt481nyB,,,,,,,,,0,0,3.744,0,0,0,3.223,0,IM_2ta2DVOywYoYo85,,,,,,,,,0,0,2.437,0,0,0,3.121,0,IM_aXIqvgjyXdfSJTf,,,,,,,,,0,0,4.035,0,"To some extent
+4
+",6,6,"Not at all
+1
+","To some extent
+4
+","To some extent
+4
+",3,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+",3,"Not at all
+1
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+",2,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+",2,3,"To some extent
+4
+",3,2,6,3,Months.,Minutes.,Weeks.,Every week,5,"Very little
+1
+",3,"To a large extent
+7
+","Very little
+1
+","Very little
+1
+","Very little
+1
+",6,3,"Very little
+1
+",5,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",3,"Very little
+1
+",3,3,5,"Very little
+1
+","To a large extent
+7
+",2,"Very little
+1
+",5,"Very little
+1
+",3,"Very little
+1
+","To a large extent
+7
+",2,"Very little
+1
+",3,3,"Very little
+1
+",3,"Very little
+1
+","Very little
+1
+",a worker for pay,Yes,Yes,One day,I did my work but had some minor problems.,Once or twice I felt a little ashamed.,I had no arguments and got along very well.,Half the time I felt upset.,Once or twice my work was not interesting.,,,,,,,,,,,,,,Two to four friends,I usually can talk about my feelings.,Three times,I spent a little time on hobbies.,I usually got along but had minor arguments.,I got over it in a few days.,I usually felt uncomfortable.,I always felt lonely and wished for more friends.,Most of the time I felt bored.,No (go to question 30),Twice,,Yes (answer questions 30-37),We usually got along very well but had some minor arguments.,About half the time I felt able to talk about my feelings.,I have waited for my relatives to contact me.,I usually did not need to depend on them.,I never wanted to oppose them.,Once or twice I worried.,I usually did not feel that I let them down.,About half the time I felt they let me down.,Yes (please answer questions 38-46),We usually got along very well but had some minor arguments.,I could always talk about my feelings.,I usually have not insisted on having my own way.,Once or twice,I was usually dependent.,I usually felt affection,Once or twice a week,About half the time,I usually enjoyed it.,No (go to question 51),,,,,Yes (please answer questions 51-53),Once or twice worried.,About half the time I felt I let them down.,I felt they usually did not let me down.,"I usually had enough money, with minor problems.",None,Mild,Mild,Moderate,Severe,None,None,None,None,Moderate,Mild,Mild,9,3,12,1 I occasionally feel happier or more cheerful than usual.,1 I occasionally feel more self-confident than usual.,1 I occasionally need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Somewhat,Moderately,Moderately,Somewhat,Somewhat,Moderately,I feel sad or blue.,I feel discouraged about the future.,I do not feel like a failure.,I don't enjoy things the way I used to.,I feel bad or unworthy a good part of the time.,I am disappointed in myself.,I don't have any thoughts of harming myself.,I have not lost interest in other people.,I have great difficulty in making decisions.,I am worried that I am looking old or unattractive.,I have to push myself very hard to do anything.,I get tired more easily than I used to.,My appetite is not as good as it used to be.,No change.,No change.,Venus,24,Caucasian/White,,Female,16,"  $51,000-$75,000",Full-Time,"  With Spouse/Partner",,"  Live-in Partner",0,4
+2016-08-16 05:37:09,2016-08-16 06:08:41,IP Address,73.159.66.91,100,1892,True,2016-08-16 06:08:42,R_29sNuRKiyU5UzVz,,,,,anonymous,248_Y,,1,1,1,1,1,0,0,0,2,1,6,"Very little
+1
+","To some extent
+4
+",5,2,"Very little
+1
+",2,5,"To some extent
+4
+",2,"To a large extent
+7
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+",2,"To some extent
+4
+",6,"To a large extent
+7
+",5,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",5,"Very little
+1
+",5,2,6,2,2,"To a large extent
+7
+","To some extent
+4
+","Very little
+1
+",6,"Very little
+1
+","Very little
+1
+",0,0,3.356,0,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,3.535,0,0,0,3.761,0,IM_cOqKiSDCAZfenxX,0,0,2.135,0,,,,,,,,,0,0,3.445,0,IM_bQS1dMRvajnPE9L,0,0,2.163,0,,,,,,,,,0,0,4.562,0,IM_5oiJthGGI1i6lSZ,,,,,0,0,5.5,0,,,,,0,0,2.347,0,IM_0PYwmeK3V2nL9Zj,,,,,0,0,3.879,0,,,,,0,0,3.003,0,IM_4TQHt9Ry6o3lkFL,,,,,,,,,0,0,3.046,0,0,0,2.528,0,IM_9ucYW8gb88GMOoZ,,,,,0,0,4.751,0,,,,,0,0,4.415,0,IM_d0Ymp3nyFL9iEXH,0,0,3.383,0,,,,,,,,,0,0,2.678,0,IM_eqR1UV65B8lmFmt,,,,,,,,,0,0,2.67,0,0,0,2.364,0,IM_8eohYsoVOH0uFFP,,,,,0,0,2.808,0,,,,,0,0,2.78,0,IM_0qQnMaWfnNhZN5P,,,,,,,,,0,0,1.651,0,0,0,2.384,0,IM_dhh8T2Ggw9AwPmR,,,,,,,,,0,0,3.407,0,0,0,2.49,0,IM_8cBg2nfxLzoB5d3,,,,,,,,,0,0,1.511,0,0,0,2.494,0,IM_bezClOEUZsmj3IV,0,0,2.658,0,,,,,,,,,0,0,4.131,0,IM_7NXhwCIRt481nyB,,,,,,,,,0,0,1.906,0,0,0,2.921,0,IM_cXVe0swF1V4V8tT,0,0,1.787,0,,,,,,,,,0,0,3.213,0,IM_cI4XGRMevM7MOcl,,,,,0,0,1.801,0,,,,,"To some extent
+4
+","To a large extent&nbsp;
+
+7
+","To some extent
+4
+","Not at all
+1
+","Not at all
+1
+","To some extent
+4
+",5,6,"To some extent
+4
+","Not at all
+1
+","To some extent
+4
+",5,5,"To some extent
+4
+","To some extent
+4
+",2,5,3,3,"To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To some extent
+4
+","To some extent
+4
+",Days.,Hours.,Days.,Every hour,"To a large extent
+7
+","Very little
+1
+",6,6,"Very little
+1
+",2,2,6,"To some extent
+4
+",2,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+",2,3,6,"To some extent
+4
+","To a large extent
+7
+",6,"To a large extent
+7
+",3,"To a large extent
+7
+",3,2,6,2,6,2,"To a large extent
+7
+",2,3,"To a large extent
+7
+",6,3,"To a large extent
+7
+","Very little
+1
+",2,a worker for pay,Yes,Yes,No days missed,I did my work but had some minor problems.,Once or twice I felt a little ashamed.,I had no arguments and got along very well.,Half the time I felt upset.,My work was almost always interesting.,,,,,,,,,,,,,,Two to four friends,I usually can talk about my feelings.,More than 3 times,I spent some spare time on hobbies some of the days.,I usually got along but had minor arguments.,I got over it in a few hours.,Sometimes I felt uncomfortable but could relax after a while.,I have not felt lonely.,I never felt bored.,Yes (answer questions 28 & 29),Never,I was completely uninterested.,Yes (answer questions 30-37),We always got along very well.,About half the time I felt able to talk about my feelings.,I have contacted a relative at least once.,I usually did not need to depend on them.,Once or twice I wanted to oppose them.,Once or twice I worried.,I did not feel that I let them down at all.,About half the time I felt they let me down.,No (go to question 47),,,,,,,,,,No (go to question 51),I was always interested and actively involved.,I was always able to communicate with them.,I had no arguments and we got along very well.,I mostly felt affection.,Yes (please answer questions 51-53),I never worried.,I did not feel I let them down.,I felt they usually did not let me down.,I had enough money for needs.,None,None,Mild,None,Severe,None,None,None,None,Mild,Mild,Moderate,10,1,8,2 I often feel happier or more cheerful than usual.,2 I often feel more self-confident than usual.,1 I occasionally need less sleep than usual.,0 I do not talk more than usual.,I have often been more active than usual.,Very much,Somewhat,Not at all,Moderately,Very much,Somewhat,I do not feel sad.,I do not feel that the future is hopeless and that things cannot improve.,I do not feel like a failure.,I am not particularly dissatisfied.,I don't feel particularly guilty.,I don't feel disappointed in myself.,I don't have any thoughts of harming myself.,I am less interested in other people than I used to be.,I make decisions about as well as ever.,I am worried that I am looking old or unattractive.,It takes extra effort to get started at doing anything.,I get tired more easily than I used to.,My appetite is no worse than usual.,"Trileptal, 900 mg, 18 years
+","premarin, .5, 3 years
+synthroid, 115, 15years",venus,62,Caucasian/White,,Female,16,"$26,000-$50,000","	 		  Part-Time",Living Alone,,"  Divorced",2,7
+2016-08-16 05:47:55,2016-08-16 06:17:01,IP Address,100.16.134.65,100,1745,True,2016-08-16 06:17:02,R_3iyR0xzuPALjrjW,,,,,anonymous,151_Y,MS,2,2,1,1,0,0,0,0,2,1,"To some extent
+4
+",2,5,6,"Very little
+1
+",2,"Very little
+1
+",5,"To some extent
+4
+","To some extent
+4
+",5,"Very little
+1
+",6,3,2,5,2,5,6,5,"Very little
+1
+",5,2,2,6,"Very little
+1
+",3,2,"To a large extent
+7
+",2,"Very little
+1
+",5,3,"Very little
+1
+",5,"Very little
+1
+",2,0,0,4.246,0,IM_eyyXcmokvwYPkhv,0,0,3.551,0,,,,,,,,,0,0,3.714,0,IM_cOqKiSDCAZfenxX,0,0,2.953,0,,,,,,,,,0,0,3.827,0,IM_cUyc33eo5Nts1ql,,,,,0,0,3.301,0,,,,,0,0,3.933,0,IM_0etxkZljeGcWJBr,0,0,1.907,0,,,,,,,,,0,0,4.065,0,IM_0PYwmeK3V2nL9Zj,,,,,0,0,3.055,0,,,,,0,0,3.768,0,IM_cuu9BbCpr0nwAWF,,,,,0,0,1.889,0,,,,,0,0,3.724,0,IM_2mCt9qJ5YJQqAPX,0,0,2.322,0,,,,,,,,,0,0,3.722,0,IM_d0Ymp3nyFL9iEXH,0,0,3.057,0,,,,,,,,,0,0,3.767,0,IM_00tQXRbHpXyDh7T,0,0,1.434,0,,,,,,,,,0,0,3.753,0,IM_3WQHXxurKEck5Cd,0,0,1.897,0,,,,,,,,,0,0,3.814,0,IM_6mqEClZaWupM3LT,0,0,2.457,0,,,,,,,,,0,0,3.766,0,IM_78wh7ELO9zX6Nyl,0,0,1.717,0,,,,,,,,,0,0,3.667,0,IM_cBHX3xN8tVZUSCV,0,0,1.895,0,,,,,,,,,0,0,3.65,0,IM_bezClOEUZsmj3IV,0,0,2.739,0,,,,,,,,,0,0,3.788,0,IM_7NXhwCIRt481nyB,,,,,,,,,0,0,3.07,0,0,0,3.797,0,IM_cXVe0swF1V4V8tT,0,0,2.949,0,,,,,,,,,0,0,4.95,0,IM_3Qqm6kq6dR60zg9,0,0,2.927,0,,,,,,,,,5,"To some extent
+4
+",6,2,3,"To some extent
+4
+",3,5,2,"Not at all
+1
+","To some extent
+4
+",3,5,5,5,"Not at all
+1
+",5,3,3,6,5,5,"To a large extent&nbsp;
+
+7
+",3,Weeks.,Minutes.,Days.,Every week,5,"Very little
+1
+",5,"To a large extent
+7
+","Very little
+1
+","Very little
+1
+","Very little
+1
+",5,5,"Very little
+1
+",6,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+",6,"To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+",6,"Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+",5,"Very little
+1
+","To a large extent
+7
+",2,"Very little
+1
+",6,3,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+",2,a housewife,No,No,I did not work any days,,,,,,Every day.,I did my work but had some minor problems.,Once or twice I felt a little ashamed.,I had no arguments and got along very well.,I never felt upset.,Half the time my work was uninteresting.,,,,,,,,Two to four friends,I usually can talk about my feelings.,More than 3 times,I spent some spare time on hobbies some of the days.,I had no arguments and got along very well.,I got over it in a few hours.,I always felt comfortable.,I have not felt lonely.,I usually did not feel bored.,No (go to question 30),,,Yes (answer questions 30-37),We always got along very well.,I can always talk about my feelings with at least one relative.,I have contacted relatives regularly.,About half the time I needed to depend on them.,I never wanted to oppose them.,I have not worried without reason.,I did not feel that I let them down at all.,I felt that they usually did not let me down.,Yes (please answer questions 38-46),We usually got along very well but had some minor arguments.,I could always talk about my feelings.,About half the time I insisted on having my own way.,Almost never,I was usually independent.,I usually felt affection,Less than once every two weeks but at least once in the past month,Not applicable; no intercourse in the last two weeks,About half the time I did and half the time I did not enjoy it.,Yes (answer questions 47-50),I was usually interested and involved.,I was always able to communicate with them.,I usually got along very well but had some minor arguments.,I always felt affection.,Yes (please answer questions 51-53),I never worried.,I did not feel I let them down.,I felt they usually did not let me down.,I had enough money for needs.,None,None,None,None,None,None,None,None,None,None,None,None,0,0,0,0 I do not feel happier or more cheerful than usual.,0 I do not feel more self-confident than usual.,0 I do not need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Somewhat,Somewhat,Not at all,Somewhat,Moderately,Somewhat,I do not feel sad.,I do not feel that the future is hopeless and that things cannot improve.,I do not feel like a failure.,I am not particularly dissatisfied.,I don't feel particularly guilty.,I am disappointed in myself.,I don't have any thoughts of harming myself.,I have not lost interest in other people.,I make decisions about as well as ever.,I don't feel that I look any worse than I used to.,I can work about as well as before.,I get tired more easily than I used to.,My appetite is no worse than usual.,N/A,N/A,Venus,35,Caucasian/White,,Female,16,"  More than $100,000","  Unemployed (not a student)","  With Spouse/Partner and Children",,"  Married",2,7
+2016-08-16 17:35:47,2016-08-16 18:14:54,IP Address,73.81.104.105,100,2346,True,2016-08-16 18:14:55,R_1mQzfu91l3hiQTE,,,,,anonymous,165_Y,AKN,1,2,1,1,1,1,1,0,2,1,"Very little
+1
+",2,3,"To a large extent
+7
+",2,6,"To some extent
+4
+",3,3,"To some extent
+4
+",5,6,"To some extent
+4
+",6,2,6,6,"To some extent
+4
+",2,5,"Very little
+1
+",6,5,5,2,5,2,6,2,6,6,3,6,6,5,"To some extent
+4
+",2,8.955,8.955,10.36,1,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,7.917,0,0,0,6.674,0,IM_b3goA4TblW4ROU5,,,,,,,,,0,0,5.784,0,0,0,12.866,0,IM_bQS1dMRvajnPE9L,0,0,6.97,0,,,,,,,,,0,0,4.297,0,IM_0etxkZljeGcWJBr,0,0,4.948,0,,,,,,,,,0,0,4.18,0,IM_0PYwmeK3V2nL9Zj,,,,,0,0,3.234,0,,,,,0,0,5.53,0,IM_4TQHt9Ry6o3lkFL,,,,,,,,,0,0,6.174,0,0,0,5.318,0,IM_2mCt9qJ5YJQqAPX,0,0,5.759,0,,,,,,,,,0,0,6.236,0,IM_d0Ymp3nyFL9iEXH,3.445,3.445,6.879,1,,,,,,,,,0,0,17.122,0,IM_1SrRYl9AgjXFf0N,,,,,0,0,3.878,0,,,,,0,0,4.972,0,IM_3WQHXxurKEck5Cd,0,0,11.35,0,,,,,,,,,0,0,7.897,0,IM_5o4dsbzbgsk4B37,,,,,0,0,7.191,0,,,,,0,0,4.515,0,IM_dgqqrZb70oXtibX,,,,,0,0,5.606,0,,,,,0,0,6.27,0,IM_cBHX3xN8tVZUSCV,0,0,3.965,0,,,,,,,,,0,0,12.35,0,IM_bezClOEUZsmj3IV,0,0,3.359,0,,,,,,,,,0,0,4.588,0,IM_3VFfiyQOfZxlWct,0,0,5.673,0,,,,,,,,,0,0,5.422,0,IM_1Y3PnC4PhHG53U1,,,,,0,0,8.143,0,,,,,0,0,9.436,0,IM_cI4XGRMevM7MOcl,,,,,0,0,4.464,0,,,,,6,"To some extent
+4
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+",3,"To some extent
+4
+",2,3,"To some extent
+4
+",5,"To some extent
+4
+","Not at all
+1
+","To some extent
+4
+",6,6,2,"To some extent
+4
+","To some extent
+4
+",2,"To some extent
+4
+","To some extent
+4
+","To some extent
+4
+",6,"To some extent
+4
+",Days.,Days.,Weeks.,Not at all,"To some extent
+4
+","Very little
+1
+","To some extent
+4
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",2,6,"To a large extent
+7
+",2,"To some extent
+4
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+",6,6,6,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To some extent
+4
+",6,2,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To some extent
+4
+","To some extent
+4
+","To a large extent
+7
+","To some extent
+4
+","Very little
+1
+","To a large extent
+7
+",5,"Very little
+1
+",a worker for pay,Yes,Yes,No days missed,I did my work very well.,I felt ashamed most of the time.,I had more than one argument.,I felt upset most of the time.,My work was uninteresting.,,,,,,,,,,,,,,Two to four friends,I can always talk about my innermost feelings.,Once,I spent some spare time on hobbies some of the days.,I usually got along but had minor arguments.,I got over it in a few hours.,I always felt comfortable.,About half the time I felt lonely.,About half the time I felt bored.,Yes (answer questions 28 & 29),Once,Most of the time I was interested.,No (go to question 36),,About half the time I felt able to talk about my feelings.,I have waited for my relatives to contact me.,I never need to depend on them.,About half the time I wanted to oppose them.,I have not worried without reason.,About half the time I felt that I let them down.,I am bitter that they let me down.,No (go to question 47),We usually got along very well but had some minor arguments.,,,,,,,,,No (go to question 51),,,,,Yes (please answer questions 51-53),I never worried.,I did not feel I let them down.,I feel bitter that they have let me down.,About half the time I did not have enough money but did not have to borrow money.,None,None,None,None,None,None,None,None,None,None,None,None,0,0,0,1 I occasionally feel happier or more cheerful than usual.,1 I occasionally feel more self-confident than usual.,0 I do not need less sleep than usual.,0 I do not talk more than usual.,I have often been more active than usual.,Somewhat,Not at all,Not at all,Very much,Moderately,Somewhat,I am blue or sad all the time and I can't snap out of it.,I feel discouraged about the future.,"As I look back on my life, all I can see is a lot of failures.",I don't enjoy things the way I used to.,I don't feel particularly guilty.,I am disappointed in myself.,I feel I would be better off dead.,I have not lost interest in other people.,I make decisions about as well as ever.,I don't feel that I look any worse than I used to.,I can work about as well as before.,I don't get more tired than usual.,My appetite is no worse than usual.,"I do not take medications. ","I do not take medications. ",Venus,35,Caucasian/White,,Female,16+,"$10,000 - $25,000",Full-Time,Living Alone,,Single (and not in a current relationship),0,3
+2016-08-23 18:08:44,2016-08-23 18:38:23,IP Address,73.182.146.243,100,1778,True,2016-08-23 18:38:25,R_2bHX6v0zhb2CivT,,,,,anonymous,135_Y,KI,2,2,1,1,0,0,0,0,2,1,2,6,2,2,"To a large extent
+7
+","To a large extent
+7
+",6,"Very little
+1
+","Very little
+1
+",6,2,"To a large extent
+7
+",3,6,"To a large extent
+7
+",2,"To some extent
+4
+",2,2,2,"To some extent
+4
+",2,"To a large extent
+7
+","To some extent
+4
+","Very little
+1
+",5,2,"To a large extent
+7
+",5,"To a large extent
+7
+",5,3,6,2,3,"Very little
+1
+","To some extent
+4
+",0,0,3.743,0,IM_bpvhzF2drbJpmKh,,,,,0,0,5.501,0,,,,,0,0,3.414,0,IM_cOqKiSDCAZfenxX,0,0,15.81,0,,,,,,,,,0,0,3.478,0,IM_8bQvn7wYEcryWe9,,,,,,,,,0,0,2.718,0,0,0,3.569,0,IM_3vJkL7QRS1i9WV7,,,,,,,,,0,0,4.89,0,0,0,2.371,0,IM_5zrCeOAHvITQ5fL,,,,,,,,,0,0,3.293,0,0,0,3.113,0,IM_7QlBGapA2rNm7wp,0,0,2.529,0,,,,,,,,,0,0,4.679,0,IM_2mCt9qJ5YJQqAPX,0,0,5.939,0,,,,,,,,,0,0,5.315,0,IM_blQpMXIX0cEhVU9,,,,,,,,,0,0,5.934,0,0,0,3.131,0,IM_eqR1UV65B8lmFmt,,,,,,,,,0,0,4.393,0,0,0,3.145,0,IM_3WQHXxurKEck5Cd,0,0,2.553,0,,,,,,,,,0,0,3.32,0,IM_0qQnMaWfnNhZN5P,,,,,,,,,0,0,3.834,0,0,0,3.342,0,IM_78wh7ELO9zX6Nyl,0,0,3.05,0,,,,,,,,,0,0,3.4,0,IM_8cBg2nfxLzoB5d3,,,,,,,,,0,0,4.123,0,0,0,3.833,0,IM_a9QTIgBx6M7PQjP,,,,,0,0,3.257,0,,,,,0,0,4.002,0,IM_7NXhwCIRt481nyB,,,,,,,,,0,0,4.078,0,0,0,3.14,0,IM_cXVe0swF1V4V8tT,0,0,3.016,0,,,,,,,,,0,0,5.623,0,IM_aXIqvgjyXdfSJTf,,,,,,,,,0,0,4.216,0,5,2,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+",2,"To some extent
+4
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+",2,6,2,"Not at all
+1
+","To a large extent&nbsp;
+
+7
+",2,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+",5,6,2,2,2,"To some extent
+4
+",2,Weeks.,Hours.,Months.,Every month,6,"Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","Very little
+1
+",6,"To a large extent
+7
+","Very little
+1
+",6,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",5,2,6,6,6,2,6,"Very little
+1
+",2,"To a large extent
+7
+",2,6,"Very little
+1
+",6,"Very little
+1
+",2,"To a large extent
+7
+",3,2,"To a large extent
+7
+",2,"Very little
+1
+",unemployed,No,No,I did not work any days,,,,,,I did the housework about half the time.,I needed help with work and did not do well about half the time.,I felt ashamed most of the time.,I had no arguments and got along very well.,Half the time I felt upset.,Most of the time my work was uninteresting.,Half time,I was on vacation the last two weeks.,I did my work poorly all the time.,I felt ashamed all the time.,I had no arguments and got along very well.,I felt upset most of the time.,Half the time my work was uninteresting.,Two to four friends,About half the time I felt able to talk about my feelings.,Three times,I spent most of my spare time on hobbies almost every day.,I usually got along but had minor arguments.,I got over it in a few hours.,I usually felt uncomfortable.,I usually felt lonely.,Most of the time I felt bored.,Yes (answer questions 28 & 29),Once,I was completely uninterested.,Yes (answer questions 30-37),We usually got along very well but had some minor arguments.,About half the time I felt able to talk about my feelings.,I have contacted a relative at least once.,Most of the time I depend on them.,I never wanted to oppose them.,I have not worried without reason.,About half the time I felt that I let them down.,I never felt that they let me down.,No (go to question 47),,,,,,,,,,No (go to question 51),,,,,No (go to question 54),,,,I had enough money for needs.,Moderate,Moderate,Mild,Mild,Severe,Moderate,Moderate,None,None,Mild,Moderate,Severe,25,7,30,1 I occasionally feel happier or more cheerful than usual.,1 I occasionally feel more self-confident than usual.,1 I occasionally need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Somewhat,Moderately,Moderately,Somewhat,Not at all,Very much,I am blue or sad all the time and I can't snap out of it.,I feel that the future is hopeless and that things cannot improve.,"I feel I am a complete failure as a person (parent, husband, wife).",I am dissatisfied with everything.,I feel as though I am very bad or worthless.,I hate myself.,I feel I would be better off dead.,I have lost all my interest in other people and don't care about them at all.,I have great difficulty in making decisions.,I am worried that I am looking old or unattractive.,I have to push myself very hard to do anything.,I get tired more easily than I used to.,My appetite is much worse now.,"Zoloft, 25 mg, 1 week (was taking none from March-August, previously 100mg)
+No longer taking Wellbutrin (200 mg) since March",None,Venus,26,Caucasian/White,,Female,17,"Less than $10,000","  Unemployed (student)","  With Friend(s)/Roommate(s)",,Single (and not in a current relationship),0,5
+2016-08-25 08:09:20,2016-08-25 08:41:47,IP Address,74.94.148.194,100,1946,True,2016-08-25 08:41:49,R_3nwrfUjfDS8NAmN,,,,,anonymous," 222_Y",el,1,1,1,1,0,0,0,0,2,2,3,"Very little
+1
+",2,2,"Very little
+1
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","Very little
+1
+",3,"Very little
+1
+",3,"To some extent
+4
+","Very little
+1
+","Very little
+1
+",3,"Very little
+1
+","Very little
+1
+",2,"Very little
+1
+",3,"Very little
+1
+",2,"Very little
+1
+","Very little
+1
+",3,"Very little
+1
+","Very little
+1
+",3,"Very little
+1
+","Very little
+1
+",0,0,8.011,0,IM_eyyXcmokvwYPkhv,0,0,3.186,0,,,,,,,,,0,0,3.458,0,IM_cOqKiSDCAZfenxX,0,0,2.487,0,,,,,,,,,0,0,3.462,0,IM_bQS1dMRvajnPE9L,0,0,2.464,0,,,,,,,,,0,0,3.311,0,IM_0etxkZljeGcWJBr,0,0,2.203,0,,,,,,,,,0,0,3.661,0,IM_aXmPUydvCBeA8Kh,0,0,2.51,0,,,,,,,,,0,0,1.898,0,IM_7QlBGapA2rNm7wp,0,0,2.259,0,,,,,,,,,0,0,3.348,0,IM_2mCt9qJ5YJQqAPX,0,0,2.187,0,,,,,,,,,0,0,3.47,0,IM_d0Ymp3nyFL9iEXH,0,0,2.031,0,,,,,,,,,0,0,3.738,0,IM_00tQXRbHpXyDh7T,0,0,2.294,0,,,,,,,,,0,0,4.036,0,IM_3WQHXxurKEck5Cd,0,0,2.637,0,,,,,,,,,0,0,3.898,0,IM_6mqEClZaWupM3LT,0,0,4.857,0,,,,,,,,,0,0,3.552,0,IM_78wh7ELO9zX6Nyl,0,0,1.98,0,,,,,,,,,0,0,2.481,0,IM_cBHX3xN8tVZUSCV,0,0,2.497,0,,,,,,,,,0,0,3.248,0,IM_bezClOEUZsmj3IV,0,0,2.305,0,,,,,,,,,0,0,3.441,0,IM_3VFfiyQOfZxlWct,0,0,2.332,0,,,,,,,,,0,0,3.363,0,IM_cXVe0swF1V4V8tT,0,0,3.402,0,,,,,,,,,0,0,2.829,0,IM_3Qqm6kq6dR60zg9,0,0,2.489,0,,,,,,,,,6,"Not at all
+1
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+",3,"To some extent
+4
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","Not at all
+1
+",5,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+",Months.,Days.,Weeks.,Not at all,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",a worker for pay,Yes,Yes,One day,I did my work poorly most of the time.,About half the time I felt ashamed.,I had no arguments and got along very well.,I have never felt upset.,My work was uninteresting.,,,,,,,,,,,,,,Two to four friends,I can always talk about my innermost feelings.,Once,I usually did not spend any time on hobbies but did watch TV.,I usually got along but had minor arguments.,I got over it in a few hours.,I always felt comfortable.,I have not felt lonely.,I was constantly bored.,No (go to question 30),,,Yes (answer questions 30-37),We always got along very well.,I usually can talk about my feelings.,I have contacted relatives regularly.,About half the time I needed to depend on them.,I never wanted to oppose them.,I have not worried without reason.,I did not feel that I let them down at all.,I never felt that they let me down.,Yes (please answer questions 38-46),We had more than one argument.,I usually could talk about my feelings.,I usually insisted on having my own way.,Almost never,I was somewhat dependent.,About half the time I felt dislike and half the time affection.,Once or twice a week,None,I usually enjoyed it.,Yes (answer questions 47-50),I was usually interested and involved.,I was always able to communicate with them.,I had no arguments and we got along very well.,I always felt affection.,Yes (please answer questions 51-53),I never worried.,I did not feel I let them down.,I never felt they let me down.,"I usually had enough money, with minor problems.",None,Mild,None,Mild,Moderate,Mild,None,None,None,None,None,Severe,16,0,15,0 I do not feel happier or more cheerful than usual.,0 I do not feel more self-confident than usual.,0 I do not need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Moderately,Very much,Not at all,Somewhat,Somewhat,Not at all,I feel sad or blue.,I feel I have nothing to look forward to.,I do not feel like a failure.,I don't enjoy things the way I used to.,I don't feel particularly guilty.,I don't feel disappointed in myself.,I don't have any thoughts of harming myself.,I have not lost interest in other people.,I make decisions about as well as ever.,I am worried that I am looking old or unattractive.,It takes extra effort to get started at doing anything.,I get tired more easily than I used to.,My appetite is no worse than usual.,"Seroquel, 50 mg, 2 month",none,South Hadley,29,Caucasian/White,,Female,16," $76,000-$100,000",Full-Time,"  With Spouse/Partner and Children",,"  Married",1,4
+2016-08-28 07:18:30,2016-08-28 07:41:18,IP Address,64.17.96.9,100,1367,True,2016-08-28 07:41:19,R_3Pox928GxKdPePP,,,,,anonymous,124_Y,BIG,2,1,1,1,1,0,0,0,1,1,"To some extent
+4
+",2,2,3,3,3,2,3,3,"To some extent
+4
+",2,3,3,3,3,2,3,3,"To some extent
+4
+",3,2,2,3,2,"To some extent
+4
+",3,"To some extent
+4
+",3,3,"To some extent
+4
+",3,"To some extent
+4
+",3,2,5,2,2,0,0,5.027,0,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,7.273,0,0,0,3.898,0,IM_cOqKiSDCAZfenxX,0,0,4.832,0,,,,,,,,,0,0,3.335,0,IM_bQS1dMRvajnPE9L,0,0,2.635,0,,,,,,,,,0,0,2.805,0,IM_0etxkZljeGcWJBr,0,0,5.257,0,,,,,,,,,0,0,3.275,0,IM_5zrCeOAHvITQ5fL,,,,,,,,,0,0,3.83,0,0,0,2.898,0,IM_7QlBGapA2rNm7wp,0,0,3.861,0,,,,,,,,,0,0,3.334,0,IM_2mCt9qJ5YJQqAPX,0,0,2.159,0,,,,,,,,,0,0,3.04,0,IM_d0Ymp3nyFL9iEXH,0,0,3.537,0,,,,,,,,,0,0,4.166,0,IM_00tQXRbHpXyDh7T,0,0,4.411,0,,,,,,,,,0,0,2.899,0,IM_3WQHXxurKEck5Cd,0,0,3.343,0,,,,,,,,,0,0,3.308,0,IM_6mqEClZaWupM3LT,0,0,4.412,0,,,,,,,,,0,0,3.054,0,IM_dgqqrZb70oXtibX,,,,,0,0,2.413,0,,,,,0,0,3.021,0,IM_8cBg2nfxLzoB5d3,,,,,,,,,0,0,2.995,0,0,0,3.079,0,IM_bezClOEUZsmj3IV,0,0,3.16,0,,,,,,,,,0,0,4.122,0,IM_3VFfiyQOfZxlWct,0,0,2.607,0,,,,,,,,,0,0,3.331,0,IM_cXVe0swF1V4V8tT,0,0,5.129,0,,,,,,,,,0,0,3.103,0,IM_aXIqvgjyXdfSJTf,,,,,,,,,0,0,2.526,0,6,"To some extent
+4
+","To some extent
+4
+","To some extent
+4
+",2,"To some extent
+4
+","To some extent
+4
+","To a large extent&nbsp;
+
+7
+",3,"Not at all
+1
+",5,3,"To a large extent&nbsp;
+
+7
+",2,6,2,6,"To some extent
+4
+","To some extent
+4
+",6,"To some extent
+4
+","To some extent
+4
+","To a large extent&nbsp;
+
+7
+",3,Weeks.,Hours.,Months.,Every week,6,2,5,5,2,"To some extent
+4
+",2,6,5,3,6,"Very little
+1
+","To a large extent
+7
+",3,5,"To some extent
+4
+",3,6,6,6,2,5,3,3,6,"To some extent
+4
+",6,3,6,3,3,6,"To some extent
+4
+",2,6,3,3,a worker for pay,Yes,Yes,No days missed,I did my work but had some minor problems.,Once or twice I felt a little ashamed.,I usually got along well but had minor arguments.,Once or twice I felt upset.,Half the time my work was uninteresting.,,,,,,,,,,,,,,Two to four friends,About half the time I felt able to talk about my feelings.,More than 3 times,I spent some spare time on hobbies some of the days.,I had no arguments and got along very well.,It did not affect me or it did not happen.,About half the time I felt uncomfortable.,I have felt lonely a few times.,About half the time I felt bored.,Yes (answer questions 28 & 29),Never,Most of the time I was not interested.,Yes (answer questions 30-37),We usually got along very well but had some minor arguments.,About half the time I felt able to talk about my feelings.,I have contacted a relative at least once.,About half the time I needed to depend on them.,I never wanted to oppose them.,Once or twice I worried.,I usually did not feel that I let them down.,I felt that they usually did not let me down.,No (go to question 47),,,,,,,,,,No (go to question 51),,,,,No (go to question 54),,,,About half the time I did not have enough money but did not have to borrow money.,Mild,Severe,Mild,Extreme or cannot do,Severe,Moderate,Moderate,Mild,None,Severe,Moderate,Moderate,15,3,7,3 I feel happier or more cheerful than usual most of the time.,2 I often feel more self-confident than usual.,0 I do not need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Moderately,Moderately,Somewhat,Moderately,Moderately,Moderately,I feel sad or blue.,I feel discouraged about the future.,I feel I have failed more than the average person.,I don't enjoy things the way I used to.,I feel bad or unworthy a good part of the time.,I am disappointed in myself.,I don't have any thoughts of harming myself.,I am less interested in other people than I used to be.,I have great difficulty in making decisions.,I am worried that I am looking old or unattractive.,It takes extra effort to get started at doing anything.,I get tired from doing anything.,My appetite is not as good as it used to be.,"Lamotrigine 200mg Once Daily 7 years
+Buperion 200mg Once Daily 3 years
+Mertazapine 30mg as needed maybe biweekly or less 3 years",non3,Venus,29,Caucasian/White,,Male,16,"$10,000 - $25,000",Full-Time,Living Alone,,Single (and not in a current relationship),0,5
+2016-08-28 11:37:57,2016-08-28 13:11:54,IP Address,24.218.137.110,100,5636,True,2016-08-28 13:11:56,R_1guOXiJQoErqLBR,,,,,anonymous,207_Y,c.n.,1,2,1,0,0,0,0,0,2,1,"To a large extent
+7
+",2,6,"To a large extent
+7
+","Very little
+1
+",2,2,"To a large extent
+7
+","To a large extent
+7
+","To some extent
+4
+",6,"Very little
+1
+",6,"Very little
+1
+",3,"To a large extent
+7
+",2,"To a large extent
+7
+",6,"To a large extent
+7
+","To some extent
+4
+",6,"To some extent
+4
+","Very little
+1
+","To a large extent
+7
+",3,"To some extent
+4
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+",2,"To a large extent
+7
+",5,3,"To a large extent
+7
+",3,2,0,0,8.43,0,IM_eyyXcmokvwYPkhv,0,0,2.788,0,,,,,,,,,0,0,3.785,0,IM_cOqKiSDCAZfenxX,0,0,2.798,0,,,,,,,,,0,0,4.321,0,IM_bQS1dMRvajnPE9L,0,0,5.354,0,,,,,,,,,0,0,3.293,0,IM_0etxkZljeGcWJBr,0,0,3.089,0,,,,,,,,,0,0,3.173,0,IM_aXmPUydvCBeA8Kh,0,0,9.677,0,,,,,,,,,0,0,3.623,0,IM_7QlBGapA2rNm7wp,0,0,3.367,0,,,,,,,,,0,0,4.345,0,IM_2mCt9qJ5YJQqAPX,0,0,4.057,0,,,,,,,,,0,0,3.523,0,IM_d0Ymp3nyFL9iEXH,0,0,2.839,0,,,,,,,,,0,0,3.496,0,IM_00tQXRbHpXyDh7T,0,0,2.536,0,,,,,,,,,0,0,5.165,0,IM_3WQHXxurKEck5Cd,0,0,8.469,0,,,,,,,,,0,0,3.867,0,IM_6mqEClZaWupM3LT,0,0,3.251,0,,,,,,,,,0,0,4.61,0,IM_78wh7ELO9zX6Nyl,0,0,5.655,0,,,,,,,,,0,0,3.363,0,IM_cBHX3xN8tVZUSCV,0,0,3.027,0,,,,,,,,,0,0,3.031,0,IM_bezClOEUZsmj3IV,0,0,2.518,0,,,,,,,,,0,0,56.815,0,IM_3VFfiyQOfZxlWct,0,0,3.261,0,,,,,,,,,0,0,4.011,0,IM_cXVe0swF1V4V8tT,0,0,2.836,0,,,,,,,,,0,0,4.036,0,IM_3Qqm6kq6dR60zg9,0,0,4.104,0,,,,,,,,,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","Not at all
+1
+","To some extent
+4
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+",6,2,"Not at all
+1
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","Not at all
+1
+","Not at all
+1
+",6,"Not at all
+1
+",Months.,Minutes.,Months.,Not at all,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",5,2,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",a worker for pay,Yes,Yes,No days missed,,I have never felt ashamed,I was constantly in arguments.,I felt upset all of the time.,My work was almost always interesting.,,,,,,,,No days missed,I did my work very well.,I never felt ashamed,I had no arguments and got along very well.,I have never felt upset.,My work was almost always interesting.,Nine or more friends,I can always talk about my innermost feelings.,More than 3 times,I spent some spare time on hobbies some of the days.,I had no arguments and got along very well.,I got over it in a few hours.,I always felt comfortable.,I have not felt lonely.,I never felt bored.,No (go to question 30),,,Yes (answer questions 30-37),We always got along very well.,I can always talk about my feelings with at least one relative.,I have contacted relatives regularly.,I usually did not need to depend on them.,I never wanted to oppose them.,I have not worried without reason.,I did not feel that I let them down at all.,I never felt that they let me down.,Yes (please answer questions 38-46),We had no arguments and we got along very well.,I could always talk about my feelings.,I have not insisted on always having my own way.,Almost never,I was always independent.,I always felt affection,More than twice a week,Once or twice,I always enjoyed it.,No (go to question 51),I was always interested and actively involved.,I was always able to communicate with them.,I had no arguments and we got along very well.,I always felt affection.,Yes (please answer questions 51-53),I never worried.,I did not feel I let them down.,I never felt they let me down.,I had enough money for needs.,None,None,None,None,Severe,None,None,None,None,None,None,None,a week,0,a week,0 I do not feel happier or more cheerful than usual.,0 I do not feel more self-confident than usual.,0 I do not need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Very much,Not at all,Not at all,Moderately,Very much,Not at all,I feel sad or blue.,I do not feel that the future is hopeless and that things cannot improve.,I do not feel like a failure.,I am not particularly dissatisfied.,I don't feel particularly guilty.,I don't feel disappointed in myself.,I don't have any thoughts of harming myself.,I have not lost interest in other people.,I make decisions about as well as ever.,I don't feel that I look any worse than I used to.,I can work about as well as before.,I don't get more tired than usual.,My appetite is no worse than usual.,"vitamin supplements as usual and prescribed, biotin same, vitamin d same","allergy pills as usual, advil as usual",venus,32,Caucasian/White,,Female,16,"Less than $10,000",Full-Time,"  With Spouse/Partner",,"  Married",3,8
+2016-08-28 13:15:20,2016-08-28 13:45:38,IP Address,108.183.35.156,100,1818,True,2016-08-28 13:45:40,R_DGI3o015IuHNrZT,,,,,anonymous,116_Y,CS,2,1,1,0,0,0,0,0,2,1,2,"Very little
+1
+",3,"Very little
+1
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","Very little
+1
+",2,6,"Very little
+1
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+",6,3,"To some extent
+4
+",2,"Very little
+1
+","Very little
+1
+","Very little
+1
+",2,"Very little
+1
+",2,"Very little
+1
+",5,"Very little
+1
+","Very little
+1
+","To some extent
+4
+",2,"Very little
+1
+",6,"Very little
+1
+","Very little
+1
+",0,0,4.966,0,IM_bpvhzF2drbJpmKh,,,,,0,0,6.411,0,,,,,0,0,4.444,0,IM_cOqKiSDCAZfenxX,0,0,3.635,0,,,,,,,,,0,0,4.097,0,IM_bQS1dMRvajnPE9L,0,0,3.23,0,,,,,,,,,0,0,4.205,0,IM_0etxkZljeGcWJBr,0,0,3.16,0,,,,,,,,,0,0,3.932,0,IM_aXmPUydvCBeA8Kh,0,0,3.118,0,,,,,,,,,0,0,1.409,0,IM_7QlBGapA2rNm7wp,0,0,3.113,0,,,,,,,,,0,0,3.807,0,IM_9ucYW8gb88GMOoZ,,,,,0,0,2.76,0,,,,,0,0,3.978,0,IM_d0Ymp3nyFL9iEXH,0,0,3.394,0,,,,,,,,,0,0,3.81,0,IM_00tQXRbHpXyDh7T,0,0,3.209,0,,,,,,,,,0,0,4.077,0,IM_eKv3kg58gp8dRzL,,,,,,,,,0,0,3.314,0,4.012,4.012,5.08,1,IM_0qQnMaWfnNhZN5P,,,,,,,,,0,0,2.967,0,0,0,3.944,0,IM_78wh7ELO9zX6Nyl,0,0,3.249,0,,,,,,,,,0,0,3.578,0,IM_8cBg2nfxLzoB5d3,,,,,,,,,0,0,2.892,0,0,0,4.129,0,IM_bezClOEUZsmj3IV,0,0,2.381,0,,,,,,,,,0,0,4.163,0,IM_3VFfiyQOfZxlWct,0,0,3.135,0,,,,,,,,,0,0,4.351,0,IM_cXVe0swF1V4V8tT,0,0,3.212,0,,,,,,,,,0,0,4.177,0,IM_cI4XGRMevM7MOcl,,,,,0,0,2.639,0,,,,,"To some extent
+4
+",3,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+",3,"To some extent
+4
+",3,6,2,"Not at all
+1
+",6,"Not at all
+1
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","To some extent
+4
+",3,"To a large extent&nbsp;
+
+7
+",5,"To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+",2,Days.,Minutes.,Months.,Not at all,"To a large extent
+7
+",2,"To some extent
+4
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+",2,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+",2,2,"To a large extent
+7
+",2,"To a large extent
+7
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+",2,2,6,"Very little
+1
+",6,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","To some extent
+4
+",2,"To a large extent
+7
+","Very little
+1
+","Very little
+1
+",a student,Yes,Yes,No days missed,I did my work very well.,I have never felt ashamed,I had no arguments and got along very well.,Once or twice I felt upset.,My work was almost always interesting.,I did the housework about half the time.,I did my work very well.,I never felt ashamed.,I had no arguments and got along very well.,I never felt upset.,Most of the time my work was uninteresting.,Full time,I was on vacation the last two weeks.,I did my work very well.,I never felt ashamed,I had no arguments and got along very well.,Once or twice I felt upset.,My work was almost always interesting.,Five to eight friends,I was usually not able to talk about my feelings.,Three times,I spent a little time on hobbies.,I had no arguments and got along very well.,It did not affect me or it did not happen.,I usually felt uncomfortable.,I have felt lonely a few times.,I never felt bored.,No (go to question 30),,,Yes (answer questions 30-37),We always got along very well.,I was never able to talk about my feelings.,"I avoided my relatives, but they contacted me.",I never need to depend on them.,Once or twice I wanted to oppose them.,I have not worried without reason.,I did not feel that I let them down at all.,I am bitter that they let me down.,Yes (please answer questions 38-46),We usually got along very well but had some minor arguments.,I could always talk about my feelings.,I usually have not insisted on having my own way.,Almost never,I was usually independent.,I always felt affection,More than twice a week,None,I always enjoyed it.,No (go to question 51),,,,,Yes (please answer questions 51-53),I never worried.,I did not feel I let them down.,I never felt they let me down.,I had enough money for needs.,None,None,None,None,None,None,None,None,None,Mild,None,None,3,0,0,2 I often feel happier or more cheerful than usual.,1 I occasionally feel more self-confident than usual.,0 I do not need less sleep than usual.,2 I often talk more than usual.,I have frequently been more active than usual.,Moderately,Somewhat,Not at all,Somewhat,Moderately,Somewhat,I do not feel sad.,I feel discouraged about the future.,I feel I have failed more than the average person.,I am not particularly dissatisfied.,I don't feel particularly guilty.,I don't feel disappointed in myself.,I don't have any thoughts of harming myself.,I have not lost interest in other people.,I make decisions about as well as ever.,I am worried that I am looking old or unattractive.,I can work about as well as before.,I don't get more tired than usual.,My appetite is no worse than usual.,N/A,N/A,Venus,30,Caucasian/White,,Female,14.5,"$10,000 - $25,000","	 		  Part-Time","  With Spouse/Partner",,"  Live-in Partner",0,7
+2016-08-28 23:18:39,2016-08-28 23:38:18,IP Address,199.96.254.4,100,1179,True,2016-08-28 23:38:20,R_QiDmoV2qqUpf0UF,,,,,anonymous,129_Y,MB,1,2,1,1,1,1,1,1,2,1,2,"Very little
+1
+","Very little
+1
+",2,"Very little
+1
+","Very little
+1
+","Very little
+1
+",2,2,"Very little
+1
+",5,"Very little
+1
+","Very little
+1
+","Very little
+1
+","Very little
+1
+",3,"Very little
+1
+","To a large extent
+7
+",6,6,"Very little
+1
+",2,"Very little
+1
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+",3,"Very little
+1
+","Very little
+1
+","Very little
+1
+",5,3,"Very little
+1
+",6,"Very little
+1
+","Very little
+1
+",0,0,10.54,0,IM_eyyXcmokvwYPkhv,0,0,2.607,0,,,,,,,,,0,0,2.75,0,IM_cOqKiSDCAZfenxX,0,0,1.936,0,,,,,,,,,0,0,2.852,0,IM_8bQvn7wYEcryWe9,,,,,,,,,0,0,1.947,0,0,0,2.719,0,IM_0etxkZljeGcWJBr,0,0,2.118,0,,,,,,,,,0,0,2.858,0,IM_aXmPUydvCBeA8Kh,0,0,1.645,0,,,,,,,,,0,0,2.151,0,IM_7QlBGapA2rNm7wp,0,0,1.802,0,,,,,,,,,0,0,2.616,0,IM_2mCt9qJ5YJQqAPX,0,0,1.891,0,,,,,,,,,0,0,2.802,0,IM_d0Ymp3nyFL9iEXH,0,0,1.966,0,,,,,,,,,0,0,2.922,0,IM_00tQXRbHpXyDh7T,0,0,2.056,0,,,,,,,,,0,0,2.755,0,IM_eKv3kg58gp8dRzL,,,,,,,,,0,0,1.963,0,0,0,3.21,0,IM_0qQnMaWfnNhZN5P,,,,,,,,,0,0,3.437,0,0,0,2.802,0,IM_78wh7ELO9zX6Nyl,1.853,1.853,2.216,1,,,,,,,,,0,0,2.952,0,IM_cBHX3xN8tVZUSCV,0,0,1.921,0,,,,,,,,,2.96,2.96,3.388,1,IM_bezClOEUZsmj3IV,0,0,1.929,0,,,,,,,,,0,0,2.712,0,IM_3VFfiyQOfZxlWct,0,0,1.878,0,,,,,,,,,0,0,2.787,0,IM_cXVe0swF1V4V8tT,0,0,1.796,0,,,,,,,,,0,0,2.879,0,IM_aXIqvgjyXdfSJTf,,,,,,,,,0,0,3.104,0,"To a large extent&nbsp;
+
+7
+",3,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To some extent
+4
+","To some extent
+4
+",2,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+","Not at all
+1
+","To some extent
+4
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+",3,"To a large extent&nbsp;
+
+7
+",2,"To a large extent&nbsp;
+
+7
+",5,"To some extent
+4
+",3,3,"To some extent
+4
+",6,2,Weeks.,Hours.,Weeks.,Every day,6,"Very little
+1
+","To some extent
+4
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+",5,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+",5,"Very little
+1
+",2,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+",5,"Very little
+1
+","Very little
+1
+",6,"Very little
+1
+",3,"Very little
+1
+","To some extent
+4
+",2,2,"To a large extent
+7
+",3,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",a worker for pay,Yes,Yes,No days missed,I did my work very well.,I have never felt ashamed,I had no arguments and got along very well.,Once or twice I felt upset.,Half the time my work was uninteresting.,,,,,,,,,,,,,,Two to four friends,I can always talk about my innermost feelings.,More than 3 times,I spent a little time on hobbies.,I had no arguments and got along very well.,It did not affect me or it did not happen.,Sometimes I felt uncomfortable but could relax after a while.,I have felt lonely a few times.,About half the time I felt bored.,Yes (answer questions 28 & 29),Twice,I was always interested in dating.,Yes (answer questions 30-37),We always got along very well.,I can always talk about my feelings with at least one relative.,I have contacted relatives regularly.,About half the time I needed to depend on them.,I never wanted to oppose them.,I have not worried without reason.,I did not feel that I let them down at all.,I never felt that they let me down.,No (go to question 47),,,,,,,,,,No (go to question 51),,,,,No (go to question 54),,,,I had enough money for needs.,None,None,None,None,None,None,None,None,None,None,None,None,0,0,0,2 I often feel happier or more cheerful than usual.,2 I often feel more self-confident than usual.,0 I do not need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Very much,Somewhat,Not at all,Somewhat,Moderately,Somewhat,I do not feel sad.,I do not feel that the future is hopeless and that things cannot improve.,I do not feel like a failure.,I am not particularly dissatisfied.,I don't feel particularly guilty.,I don't feel disappointed in myself.,I don't have any thoughts of harming myself.,I have not lost interest in other people.,I make decisions about as well as ever.,I am worried that I am looking old or unattractive.,I can work about as well as before.,I don't get more tired than usual.,My appetite is no worse than usual.,no changes,no changes,Venus,26,Other (please specify),Half Asian/Half White,Female,16," $76,000-$100,000",Full-Time,"  With Friend(s)/Roommate(s)",,Single (and not in a current relationship),0,7
+2016-08-29 06:19:12,2016-08-29 06:50:06,IP Address,73.114.24.85,100,1853,True,2016-08-29 06:50:11,R_PLmuaPkpKTnqhq1,,,,,anonymous,149_Y,EMA,2,2,1,1,1,1,1,1,2,2,"To some extent
+4
+",3,3,5,"Very little
+1
+","Very little
+1
+","Very little
+1
+",5,5,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+",3,"Very little
+1
+","To some extent
+4
+",6,"Very little
+1
+","To a large extent
+7
+",5,6,2,2,"Very little
+1
+","Very little
+1
+",2,"Very little
+1
+",3,"Very little
+1
+",5,2,"Very little
+1
+","To some extent
+4
+","To some extent
+4
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+",0,0,8.119,0,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,3.774,0,0,0,4.439,0,IM_cOqKiSDCAZfenxX,0,0,4.552,0,,,,,,,,,0,0,4.012,0,IM_bQS1dMRvajnPE9L,0,0,3.094,0,,,,,,,,,0,0,3.108,0,IM_0etxkZljeGcWJBr,0,0,2.138,0,,,,,,,,,0,0,3.923,0,IM_aXmPUydvCBeA8Kh,0,0,2.29,0,,,,,,,,,0,0,3.671,0,IM_7QlBGapA2rNm7wp,0,0,3.082,0,,,,,,,,,0,0,3.412,0,IM_78Oh87qj4E9rQTr,,,,,,,,,0,0,2.682,0,0,0,3.423,0,IM_d0Ymp3nyFL9iEXH,0,0,2.422,0,,,,,,,,,0,0,3.001,0,IM_00tQXRbHpXyDh7T,0,0,1.974,0,,,,,,,,,0,0,3.4,0,IM_3WQHXxurKEck5Cd,0,0,1.911,0,,,,,,,,,0,0,4.065,0,IM_6mqEClZaWupM3LT,0,0,3.971,0,,,,,,,,,0,0,3.144,0,IM_78wh7ELO9zX6Nyl,0,0,1.738,0,,,,,,,,,0,0,3.198,0,IM_cBHX3xN8tVZUSCV,0,0,2.374,0,,,,,,,,,0,0,3.036,0,IM_bezClOEUZsmj3IV,0,0,2.18,0,,,,,,,,,0,0,3.038,0,IM_3VFfiyQOfZxlWct,0,0,1.766,0,,,,,,,,,0,0,2.867,0,IM_cXVe0swF1V4V8tT,0,0,3.073,0,,,,,,,,,0,0,3.362,0,IM_3Qqm6kq6dR60zg9,0,0,3.369,0,,,,,,,,,6,6,"To a large extent&nbsp;
+
+7
+",2,2,"To some extent
+4
+","To some extent
+4
+",5,2,2,2,3,"To a large extent&nbsp;
+
+7
+",6,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+",3,2,"To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+",6,6,2,Days.,Hours.,Weeks.,Every day,6,2,6,"To a large extent
+7
+","Very little
+1
+","To some extent
+4
+",2,6,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+",2,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+",6,"To a large extent
+7
+",2,"To a large extent
+7
+",3,2,6,"Very little
+1
+",6,"Very little
+1
+","To a large extent
+7
+",2,2,6,6,"Very little
+1
+",6,"Very little
+1
+",2,a worker for pay,Yes,Yes,No days missed,I did my work very well.,I have never felt ashamed,I had no arguments and got along very well.,Once or twice I felt upset.,My work was almost always interesting.,,,,,,,,,,,,,,Five to eight friends,About half the time I felt able to talk about my feelings.,More than 3 times,I spent a little time on hobbies.,I had no arguments and got along very well.,I got over it in a few hours.,Sometimes I felt uncomfortable but could relax after a while.,I have felt lonely a few times.,About half the time I felt bored.,No (go to question 30),Twice,I was always interested in dating.,Yes (answer questions 30-37),We always got along very well.,I can always talk about my feelings with at least one relative.,I have contacted a relative at least once.,I usually did not need to depend on them.,I never wanted to oppose them.,I have not worried without reason.,I did not feel that I let them down at all.,I never felt that they let me down.,Yes (please answer questions 38-46),We usually got along very well but had some minor arguments.,I could always talk about my feelings.,I usually have not insisted on having my own way.,Almost never,I was somewhat dependent.,I usually felt affection,Once every two weeks,Once or twice,About half the time I did and half the time I did not enjoy it.,No (go to question 51),,,,,Yes (please answer questions 51-53),I never worried.,I usually did not feel that I let them down.,I never felt they let me down.,"I usually had enough money, with minor problems.",None,None,None,None,None,None,None,None,None,None,None,None,0,0,0,0 I do not feel happier or more cheerful than usual.,0 I do not feel more self-confident than usual.,1 I occasionally need less sleep than usual.,0 I do not talk more than usual.,I have often been more active than usual.,Somewhat,Not at all,Not at all,Somewhat,Moderately,Not at all,I do not feel sad.,I do not feel that the future is hopeless and that things cannot improve.,I do not feel like a failure.,I don't enjoy things the way I used to.,I don't feel particularly guilty.,I am disgusted with myself.,I don't have any thoughts of harming myself.,I am less interested in other people than I used to be.,I try to put off making decisions.,I feel that I am ugly or repulsive-looking.,I can work about as well as before.,I get tired more easily than I used to.,My appetite is much worse now.,N/A,N/A,Venus,25,Caucasian/White,,Female,14,"  $51,000-$75,000",Full-Time,"  With Spouse/Partner",,"  Live-in Partner",0,5
+2016-09-01 10:33:13,2016-09-01 11:01:06,IP Address,96.249.39.18,100,1672,True,2016-09-01 11:01:07,R_2rIxQDqepCUOHCR,,,,,anonymous,175_Y,CW,2,1,1,1,1,1,0,0,1,1,5,2,"To some extent
+4
+",5,"Very little
+1
+",2,"Very little
+1
+",5,5,2,"To some extent
+4
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+",5,2,"To some extent
+4
+",6,5,"Very little
+1
+",3,"Very little
+1
+","Very little
+1
+",5,"Very little
+1
+",5,"Very little
+1
+",5,"Very little
+1
+","Very little
+1
+",6,"Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",0,0,4.306,0,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,382.231,0,0,0,3.536,0,IM_b3goA4TblW4ROU5,,,,,,,,,0,0,2.599,0,0,0,3.203,0,IM_bQS1dMRvajnPE9L,0,0,2.341,0,,,,,,,,,0,0,3.689,0,IM_0etxkZljeGcWJBr,0,0,2.365,0,,,,,,,,,0,0,3.428,0,IM_aXmPUydvCBeA8Kh,0,0,2.178,0,,,,,,,,,0,0,3.504,0,IM_7QlBGapA2rNm7wp,0,0,1.802,0,,,,,,,,,0,0,5.728,0,IM_2mCt9qJ5YJQqAPX,0,0,3.751,0,,,,,,,,,0,0,3.244,0,IM_d0Ymp3nyFL9iEXH,0,0,2.234,0,,,,,,,,,0,0,3.017,0,IM_00tQXRbHpXyDh7T,0,0,3.005,0,,,,,,,,,0,0,3.788,0,IM_3WQHXxurKEck5Cd,0,0,2.064,0,,,,,,,,,0,0,3.304,0,IM_6mqEClZaWupM3LT,0,0,2.327,0,,,,,,,,,0,0,4.281,0,IM_78wh7ELO9zX6Nyl,0,0,2.278,0,,,,,,,,,0,0,1.803,0,IM_3IrBd8Y3oYVPHMN,,,,,0,0,1.962,0,,,,,0,0,3.35,0,IM_bezClOEUZsmj3IV,0,0,2.821,0,,,,,,,,,0,0,3.667,0,IM_3VFfiyQOfZxlWct,0,0,2.24,0,,,,,,,,,0,0,3.186,0,IM_cXVe0swF1V4V8tT,0,0,3.211,0,,,,,,,,,0,0,3.331,0,IM_3Qqm6kq6dR60zg9,0,0,4.432,0,,,,,,,,,6,"To some extent
+4
+","Not at all
+1
+","Not at all
+1
+",3,"To some extent
+4
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","Not at all
+1
+","Not at all
+1
+",2,"To a large extent&nbsp;
+
+7
+",2,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","To some extent
+4
+",3,"To a large extent&nbsp;
+
+7
+",6,5,"To a large extent&nbsp;
+
+7
+",6,Months.,Minutes.,Months.,Every month,"To a large extent
+7
+","Very little
+1
+",5,"To a large extent
+7
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+",2,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+",2,"To a large extent
+7
+","Very little
+1
+",2,"To a large extent
+7
+","Very little
+1
+","Very little
+1
+",a worker for pay,Yes,Yes,No days missed,I did my work very well.,I have never felt ashamed,I had no arguments and got along very well.,I have never felt upset.,My work was almost always interesting.,,,,,,,,,,,,,,Two to four friends,I can always talk about my innermost feelings.,None,I spent some spare time on hobbies some of the days.,I had no arguments and got along very well.,It did not affect me or it did not happen.,Sometimes I felt uncomfortable but could relax after a while.,I have not felt lonely.,I usually did not feel bored.,Yes (answer questions 28 & 29),Never,I was always interested in dating.,Yes (answer questions 30-37),We always got along very well.,I can always talk about my feelings with at least one relative.,I have contacted relatives regularly.,I usually did not need to depend on them.,I never wanted to oppose them.,I have not worried without reason.,I usually did not feel that I let them down.,I never felt that they let me down.,No (go to question 47),,,,,,,,,,No (go to question 51),,,,,No (go to question 54),,,,I usually did not have enough money and had to borrow from others.,Mild,Moderate,None,Moderate,Mild,None,Moderate,None,None,Mild,None,None,20,0,0,1 I occasionally feel happier or more cheerful than usual.,0 I do not feel more self-confident than usual.,0 I do not need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Moderately,Somewhat,Not at all,Moderately,Very much,Not at all,I do not feel sad.,I do not feel that the future is hopeless and that things cannot improve.,I do not feel like a failure.,I am not particularly dissatisfied.,I don't feel particularly guilty.,I don't feel disappointed in myself.,I don't have any thoughts of harming myself.,I have not lost interest in other people.,I make decisions about as well as ever.,I don't feel that I look any worse than I used to.,I can work about as well as before.,I don't get more tired than usual.,My appetite is no worse than usual.,"Zoloft, 50 mg, 8 months ",No change,Vens,27,Caucasian/White,,Male,18,"$10,000 - $25,000","	 		  Part-Time",Living Alone,,Single (and not in a current relationship),0,4
+2016-09-14 04:03:40,2016-09-14 04:22:32,IP Address,155.52.208.81,100,1131,True,2016-09-14 04:22:34,R_2zSfN5vwRGTapwA,,,,,anonymous,141_D,MDJ,1,1,1,1,1,1,1,0,2,1,"To some extent
+4
+","Very little
+1
+","To some extent
+4
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+",5,"Very little
+1
+","To some extent
+4
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+",5,5,"To some extent
+4
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+",3,"Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+",0,0,4.183,0,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,2.273,0,0,0,2.299,0,IM_cOqKiSDCAZfenxX,0,0,2.818,0,,,,,,,,,0,0,3.679,0,IM_bQS1dMRvajnPE9L,0,0,2.667,0,,,,,,,,,0,0,3.194,0,IM_0etxkZljeGcWJBr,0,0,2.397,0,,,,,,,,,0,0,3.39,0,IM_aXmPUydvCBeA8Kh,0,0,2.649,0,,,,,,,,,0,0,3.61,0,IM_7QlBGapA2rNm7wp,0,0,3.15,0,,,,,,,,,0,0,2.853,0,IM_78Oh87qj4E9rQTr,,,,,,,,,0,0,2.288,0,0,0,4.194,0,IM_d0Ymp3nyFL9iEXH,0,0,2.695,0,,,,,,,,,0,0,2.93,0,IM_00tQXRbHpXyDh7T,0,0,2.588,0,,,,,,,,,0,0,3.756,0,IM_3WQHXxurKEck5Cd,0,0,3.012,0,,,,,,,,,0,0,3.53,0,IM_6mqEClZaWupM3LT,0,0,2.439,0,,,,,,,,,0,0,3.531,0,IM_78wh7ELO9zX6Nyl,0,0,2.61,0,,,,,,,,,0,0,3.42,0,IM_cBHX3xN8tVZUSCV,0,0,2.366,0,,,,,,,,,0,0,3.653,0,IM_bezClOEUZsmj3IV,0,0,2.662,0,,,,,,,,,0,0,3.625,0,IM_3VFfiyQOfZxlWct,0,0,1.321,0,,,,,,,,,0,0,4.098,0,IM_cXVe0swF1V4V8tT,0,0,2.897,0,,,,,,,,,0,0,3.7,0,IM_3Qqm6kq6dR60zg9,0,0,3.264,0,,,,,,,,,"To a large extent&nbsp;
+
+7
+","To some extent
+4
+","Not at all
+1
+","Not at all
+1
+",2,"To some extent
+4
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","Not at all
+1
+","To some extent
+4
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","Not at all
+1
+","Not at all
+1
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","To some extent
+4
+","To some extent
+4
+","To some extent
+4
+","To some extent
+4
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+",Weeks.,Minutes.,Hours.,Not at all,5,"Very little
+1
+",5,5,"Very little
+1
+","Very little
+1
+","Very little
+1
+",6,5,"Very little
+1
+",5,"Very little
+1
+",5,"Very little
+1
+","Very little
+1
+",5,"Very little
+1
+",5,5,"To some extent
+4
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+",5,"Very little
+1
+","Very little
+1
+",5,3,"Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+",a worker for pay,Yes,Yes,No days missed,I did my work very well.,I have never felt ashamed,I had no arguments and got along very well.,I have never felt upset.,My work was almost always interesting.,,,,,,,,,,,,,,Five to eight friends,I usually can talk about my feelings.,More than 3 times,I spent some spare time on hobbies some of the days.,I had no arguments and got along very well.,It did not affect me or it did not happen.,I always felt comfortable.,I have not felt lonely.,I never felt bored.,Yes (answer questions 28 & 29),Once,I was always interested in dating.,No (go to question 36),,,,,,,I did not feel that I let them down at all.,I never felt that they let me down.,Yes (please answer questions 38-46),We had no arguments and we got along very well.,I could always talk about my feelings.,I have not insisted on always having my own way.,Almost never,I was always independent.,I always felt affection,More than twice a week,None,I always enjoyed it.,No (go to question 51),,,,,Yes (please answer questions 51-53),I never worried.,I did not feel I let them down.,I never felt they let me down.,I had enough money for needs.,None,None,None,None,None,None,None,None,None,None,None,None,0,0,0,0 I do not feel happier or more cheerful than usual.,0 I do not feel more self-confident than usual.,0 I do not need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Moderately,Not at all,Not at all,Moderately,Moderately,Not at all,I do not feel sad.,I do not feel that the future is hopeless and that things cannot improve.,I do not feel like a failure.,I am not particularly dissatisfied.,I don't feel particularly guilty.,I don't feel disappointed in myself.,I don't have any thoughts of harming myself.,I have not lost interest in other people.,I make decisions about as well as ever.,I don't feel that I look any worse than I used to.,I can work about as well as before.,I don't get more tired than usual.,My appetite is no worse than usual.,"None ","None ","Venus ",53,African-American/Black,,Male,16," $76,000-$100,000",Full-Time,"  With Spouse/Partner",,"	 		  Single (in a current relationship)",1,8
+2016-09-15 11:18:14,2016-09-15 11:50:40,IP Address,50.164.147.49,100,1945,True,2016-09-15 11:50:41,R_00r7RBfr1rJ4XXb,,,,,anonymous,183_Y,KRF,1,2,1,1,1,1,0,0,2,1,6,"Very little
+1
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+","To some extent
+4
+","Very little
+1
+",6,"Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+",6,6,6,"Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+",6,"Very little
+1
+",6,"Very little
+1
+","To a large extent
+7
+",2,"Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",5,"Very little
+1
+","Very little
+1
+",0,0,5.163,0,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,5.209,0,0,0,3.297,0,IM_cOqKiSDCAZfenxX,0,0,2.35,0,,,,,,,,,0,0,3.755,0,IM_bQS1dMRvajnPE9L,2.109,2.109,2.525,1,,,,,,,,,0,0,3.369,0,IM_0etxkZljeGcWJBr,0,0,2.34,0,,,,,,,,,0,0,3.065,0,IM_5zrCeOAHvITQ5fL,,,,,,,,,0,0,2.181,0,0,0,3.928,0,IM_7QlBGapA2rNm7wp,0,0,2.299,0,,,,,,,,,0,0,3.141,0,IM_2mCt9qJ5YJQqAPX,2.094,2.094,2.51,1,,,,,,,,,0,0,3.1,0,IM_d0Ymp3nyFL9iEXH,0,0,2.007,0,,,,,,,,,0,0,3.101,0,IM_00tQXRbHpXyDh7T,0,0,2.178,0,,,,,,,,,0,0,3.076,0,IM_3WQHXxurKEck5Cd,2.23,2.23,2.773,1,,,,,,,,,0,0,2.774,0,IM_6mqEClZaWupM3LT,1.723,1.723,2.192,1,,,,,,,,,0,0,3.136,0,IM_78wh7ELO9zX6Nyl,0,0,1.99,0,,,,,,,,,2.743,2.743,3.11,1,IM_8cBg2nfxLzoB5d3,,,,,,,,,2.008,2.008,2.38,1,0,0,2.997,0,IM_bezClOEUZsmj3IV,0,0,2.337,0,,,,,,,,,0,0,3.158,0,IM_3VFfiyQOfZxlWct,2.089,2.089,2.49,1,,,,,,,,,0,0,3.014,0,IM_cXVe0swF1V4V8tT,0,0,3.246,0,,,,,,,,,0,0,3.48,0,IM_3Qqm6kq6dR60zg9,0,0,2.139,0,,,,,,,,,"To a large extent&nbsp;
+
+7
+",2,"Not at all
+1
+","Not at all
+1
+",6,"To some extent
+4
+",2,"To a large extent&nbsp;
+
+7
+","Not at all
+1
+","To some extent
+4
+",2,"Not at all
+1
+","To a large extent&nbsp;
+
+7
+",5,6,"Not at all
+1
+",6,5,"To a large extent&nbsp;
+
+7
+",5,"To some extent
+4
+","Not at all
+1
+",6,2,Months.,Minutes.,Months.,Not at all,"To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","To a large extent
+7
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+","To a large extent
+7
+","Very little
+1
+","Very little
+1
+",a housewife,No,Yes,No days missed,I did my work very well.,I have never felt ashamed,I had no arguments and got along very well.,I have never felt upset.,Once or twice my work was not interesting.,I did the housework almost every day.,I did my work very well.,I never felt ashamed.,I had no arguments and got along very well.,I never felt upset.,Half the time my work was uninteresting.,,,,,,,,Nine or more friends,I can always talk about my innermost feelings.,More than 3 times,I spent some spare time on hobbies some of the days.,I had no arguments and got along very well.,It did not affect me or it did not happen.,I always felt comfortable.,I have not felt lonely.,I never felt bored.,No (go to question 30),,,Yes (answer questions 30-37),We always got along very well.,I can always talk about my feelings with at least one relative.,I have contacted relatives regularly.,Most of the time I depend on them.,I never wanted to oppose them.,I have not worried without reason.,I did not feel that I let them down at all.,I never felt that they let me down.,Yes (please answer questions 38-46),We usually got along very well but had some minor arguments.,I could always talk about my feelings.,I usually have not insisted on having my own way.,Almost never,I was usually independent.,I always felt affection,More than twice a week,None,I always enjoyed it.,Yes (answer questions 47-50),I was always interested and actively involved.,I usually was able to communicate with them.,I usually got along very well but had some minor arguments.,I always felt affection.,Yes (please answer questions 51-53),I never worried.,I did not feel I let them down.,I never felt they let me down.,I had enough money for needs.,Mild,None,None,None,Moderate,None,None,None,None,None,None,None,2-3,0,2,2 I often feel happier or more cheerful than usual.,2 I often feel more self-confident than usual.,0 I do not need less sleep than usual.,0 I do not talk more than usual.,I have occasionally been more active than usual.,Very much,Not at all,Not at all,Moderately,Moderately,Not at all,I do not feel sad.,I do not feel that the future is hopeless and that things cannot improve.,I do not feel like a failure.,I am not particularly dissatisfied.,I don't feel particularly guilty.,I don't feel disappointed in myself.,I don't have any thoughts of harming myself.,I have not lost interest in other people.,I make decisions about as well as ever.,I don't feel that I look any worse than I used to.,I can work about as well as before.,I don't get more tired than usual.,My appetite is no worse than usual.,"Nothing in the last 6 months ","Nothing in the last 6 months. ",Venus,36,Caucasian/White,,Female,16,"  More than $100,000","	 		  Part-Time","  With Spouse/Partner and Children",,"  Married",2,8
+2016-09-13 22:30:49,2016-09-13 22:49:09,IP Address,184.207.229.108,46,1099,False,2016-09-20 22:49:41,R_3PdUVVOoijI6BZZ,,,,,anonymous,141_D,MDJ,1,2,1,1,1,1,1,0,2,1,"To some extent
+4
+","Very little
+1
+","To some extent
+4
+",5,"Very little
+1
+","Very little
+1
+","Very little
+1
+",5,5,"Very little
+1
+","To some extent
+4
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+","Very little
+1
+",5,6,5,"To some extent
+4
+",3,"Very little
+1
+",3,"Very little
+1
+","Very little
+1
+","To some extent
+4
+","Very little
+1
+",3,"Very little
+1
+",3,"Very little
+1
+","Very little
+1
+",3,2,"Very little
+1
+",3,"Very little
+1
+","Very little
+1
+",0,0,3.987,0,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,2.352,0,0,0,1.809,0,IM_b3goA4TblW4ROU5,,,,,,,,,0,0,1.826,0,0,0,1.758,0,IM_8bQvn7wYEcryWe9,,,,,,,,,0,0,3.998,0,0,0,2.141,0,IM_5oiJthGGI1i6lSZ,,,,,0,0,4.405,0,,,,,0,0,1.465,0,IM_5zrCeOAHvITQ5fL,,,,,,,,,0,0,3.022,0,0.421,0.421,3.744,1,IM_7QlBGapA2rNm7wp,0,0,8.506,0,,,,,,,,,0,0,4.33,0,IM_78Oh87qj4E9rQTr,,,,,,,,,0,0,0,0,0,0,2.035,0,IM_d0Ymp3nyFL9iEXH,0,0,5.429,0,,,,,,,,,0,0,1.89,0,IM_00tQXRbHpXyDh7T,0,0,0,0,,,,,,,,,0,0,1.555,0,IM_3WQHXxurKEck5Cd,0,0,1.059,0,,,,,,,,,0,0,1.286,0,IM_6mqEClZaWupM3LT,0,0,8.31,0,,,,,,,,,0,0,9.929,0,IM_78wh7ELO9zX6Nyl,0,0,6.205,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,IM_3Qqm6kq6dR60zg9,0,0,1.594,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2016-09-13 22:50:39,2016-09-13 22:54:07,IP Address,184.207.229.108,1,208,False,2016-09-20 22:54:12,R_3E5ocWlSFwwEQM5,,,,,anonymous,141_D,MDJ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2016-10-12 07:23:19,2016-10-12 08:33:36,IP Address,81.20.77.22,100,4216,True,2016-10-12 08:33:37,R_XIiNoxq7dBEYgdH,,,,,anonymous,331_Y,RJB,2,2,1,1,1,1,1,0,1,1,2,5,3,3,6,6,"To some extent
+4
+",3,2,5,3,6,2,"To some extent
+4
+",6,"To some extent
+4
+",6,"To some extent
+4
+",3,5,6,5,6,3,3,2,2,"To some extent
+4
+",3,5,2,3,5,5,2,2,3,1.582,2.126,4.482,2,IM_6ytCFBMZPPbFF6l,,,,,,,,,0,0,3.086,0,0,0,3.075,0,IM_cOqKiSDCAZfenxX,0,0,2.129,0,,,,,,,,,0,0,2.529,0,IM_bQS1dMRvajnPE9L,0,0,3.831,0,,,,,,,,,0,0,4.029,0,IM_0etxkZljeGcWJBr,0,0,13.988,0,,,,,,,,,0,0,2.749,0,IM_5zrCeOAHvITQ5fL,,,,,,,,,0,0,2.264,0,0,0,4.022,0,IM_7QlBGapA2rNm7wp,0,0,2.244,0,,,,,,,,,0,0,5.794,0,IM_9ucYW8gb88GMOoZ,,,,,0,0,2.687,0,,,,,0,0,1.714,0,IM_d0Ymp3nyFL9iEXH,0,0,11.831,0,,,,,,,,,0,0,2.599,0,IM_00tQXRbHpXyDh7T,0.99,0.99,3.053,1,,,,,,,,,0,0,3.818,0,IM_eKv3kg58gp8dRzL,,,,,,,,,1.174,1.174,1.925,1,1.333,1.333,2.346,1,IM_0qQnMaWfnNhZN5P,,,,,,,,,0,0,2.598,0,0,0,3.699,0,IM_78wh7ELO9zX6Nyl,0,0,4.202,0,,,,,,,,,3.71,3.71,4.813,1,IM_8cBg2nfxLzoB5d3,,,,,,,,,0,0,1.339,0,0,0,3.445,0,IM_bezClOEUZsmj3IV,0,0,3.752,0,,,,,,,,,0,0,4.809,0,IM_3VFfiyQOfZxlWct,0,0,2.151,0,,,,,,,,,0,0,3.382,0,IM_cXVe0swF1V4V8tT,0,0,1.62,0,,,,,,,,,0,0,2.66,0,IM_3Qqm6kq6dR60zg9,1.519,1.519,3.269,1,,,,,,,,,"To a large extent&nbsp;
+
+7
+",6,"To some extent
+4
+","Not at all
+1
+","Not at all
+1
+","To some extent
+4
+","Not at all
+1
+","To a large extent&nbsp;
+
+7
+","Not at all
+1
+","Not at all
+1
+",6,"Not at all
+1
+","To a large extent&nbsp;
+
+7
+","To some extent
+4
+",6,"Not at all
+1
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+","To a large extent&nbsp;
+
+7
+",3,2,2,"To some extent
+4
+","Not at all
+1
+",Months.,Weeks.,Months.,Not at all,6,"Very little
+1
+",5,"To some extent
+4
+",2,2,"Very little
+1
+","To a large extent
+7
+",6,2,5,3,6,"Very little
+1
+",3,6,3,6,5,6,5,6,3,2,"To a large extent
+7
+","Very little
+1
+",5,2,5,2,2,6,5,2,"To a large extent
+7
+","Very little
+1
+",2,a worker for pay,Yes,Yes,One day,I did my work but had some minor problems.,Once or twice I felt a little ashamed.,I usually got along well but had minor arguments.,Half the time I felt upset.,Half the time my work was uninteresting.,I did the housework almost every day.,I did my work but had some minor problems.,Once or twice I felt a little ashamed.,I had no arguments and got along very well.,Once or twice I felt upset,Half the time my work was uninteresting.,,,,,,,,No Friends,I was usually not able to talk about my feelings.,None,I did not spend any spare time on hobbies or watching TV.,I usually got along but had minor arguments.,I got over it in a few days.,Sometimes I felt uncomfortable but could relax after a while.,I always felt lonely and wished for more friends.,About half the time I felt bored.,No (go to question 30),,,Yes (answer questions 30-37),I had more than one argument with at least one relative.,I was never able to talk about my feelings.,I have contacted a relative at least once.,I never need to depend on them.,Once or twice I wanted to oppose them.,I have not worried without reason.,I usually did not feel that I let them down.,About half the time I felt they let me down.,Yes (please answer questions 38-46),We had more than one argument.,I usually was not able to talk about my feelings.,About half the time I insisted on having my own way.,Always,I was usually dependent.,I usually felt dislike.,Not at all in a month or longer,Not applicable; no intercourse in the last two weeks,I never enjoyed it.,Yes (answer questions 47-50),I usually was disinterested.,I usually was able to communicate with them.,I usually got along very well but had some minor arguments.,I mostly felt affection.,Yes (please answer questions 51-53),About half the time I worried.,About half the time I felt I let them down.,About half the time I felt they let me down.,About half the time I did not have enough money but did not have to borrow money.,None,Moderate,Severe,Severe,Mild,Moderate,None,None,Mild,Severe,Severe,Severe,25,0,2,0 I do not feel happier or more cheerful than usual.,1 I occasionally feel more self-confident than usual.,0 I do not need less sleep than usual.,0 I do not talk more than usual.,"I have not been more active (either socially, sexually, at work, home, or school) than usual.",Moderately,Somewhat,Somewhat,Somewhat,Moderately,Somewhat,I feel sad or blue.,I feel discouraged about the future.,I do not feel like a failure.,I don't get satisfaction out of anything anymore.,I feel quite guilty.,I am disgusted with myself.,I don't have any thoughts of harming myself.,I have lost all my interest in other people and don't care about them at all.,I have great difficulty in making decisions.,I feel that there are permanent changes in my appearance and they make me look unattractive.,It takes extra effort to get started at doing anything.,I get tired more easily than I used to.,My appetite is no worse than usual.,"abilify 15mg 3 months
+oxcarbazepine, 1000mg 2 years","valtrex, 500mg, 1 year",venus,31,Caucasian/White,,Male,16," $76,000-$100,000",Full-Time,"  With Spouse/Partner and Children",,"  Married",1,8
